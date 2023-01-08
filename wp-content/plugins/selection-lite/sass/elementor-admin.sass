@@ -1,0 +1,65 @@
+/**
+ * Selection Lite
+ * Carefully selected Elementor addons bundle, for building the most awesome websites
+ *
+ * @encoding        UTF-8
+ * @version         1.7
+ * @copyright       (C) 2018 - 2021 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         GPLv3
+ * @contributors    merkulove, vladcherviakov, phoenixmkua, podolianochka, viktorialev01
+ * @support         help@merkulov.design
+ **/
+
+$widgets: line, bar, pie, donut, gauge, dots, bipolar-line, bipolar-bar, multiline-bar, stacked-bar, area, holes, taber, coder, menuar, questionar, videor, highlighter, motionger, headinger, buttoner, pricer, avatar, sliper, masker, glider, timeliner, countdowner, testimoner, gmaper, liner, imager, worker, logger, couponer, lottier, walker, reviewer, huger, floater, uper, logar, synopter, crawler, crumber
+
+// Styles fro Elementor Layers list
+
+.elementor-navigator__element__element-type
+
+  @each $slug in $widgets
+    .mdp-#{$slug}-elementor-widget-icon
+      width: 12px
+      height: 12px
+      background-image: url( '../images/widgets/#{$slug}.svg' )
+      background-position: center center
+      background-repeat: no-repeat
+      background-size: contain
+
+// Styles for Widget Box
+
+.icon
+
+  @each $slug in $widgets
+    .mdp-#{$slug}-elementor-widget-icon
+      width: 100%
+      height: 29px
+      display: block
+      background-image: url( '../images/widgets/#{$slug}.svg' )
+      background-position: center center
+      background-repeat: no-repeat
+      background-size: 28px 28px
+
+// Hide locked PRO widgets
+
+.elementor-element--promotion
+  display: none
+
+// Styles for selection category
+
+#elementor-panel-category-selection-category
+
+  .elementor-panel-category-title
+    background: url(../images/logo-color.svg) no-repeat left center
+    background-size: 15px
+    margin-left: 10px
+    padding: 20px 0 20px 25px
+
+  .elementor-element
+
+    &:hover
+
+      .title
+        color: #0274e6
+
+.selection-pro
+  line-height: 1.5

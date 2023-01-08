@@ -1,0 +1,177 @@
+// Pro Tab
+
+.mdp-menu-tab-pro
+  display: none
+
+.mdp-relative
+  position: relative
+
+.mdp-activation-faq
+  h3
+    font-size: 16px !important
+
+.mdp-selection-full-badge
+  position: absolute
+  top: 32px
+  right: 0
+  background: #f8c010
+  padding: 4px 6px
+  border-radius: 4px
+  font-size: 11px
+  font-weight: 500
+  z-index: 999
+  color: #0a2138
+  text-decoration: none
+  border: 1px solid #f8c010
+
+  &:hover
+    text-decoration: none
+    background: #FAD55E
+    color: #000
+    box-shadow: 0 1px 4px 0 #f8c010
+
+.mdp-relative
+
+  .mdp-selection-full-badge
+    top: -3px
+
+.mdp-tab-name-post_types
+
+  td
+
+    >div
+      mix-blend-mode: luminosity
+      opacity: .65
+
+      &:hover
+        mix-blend-mode: normal
+        opacity: 1
+
+  .mdp-selection-full-badge
+    top: 44px
+    right: 16px
+
+.mdp-selection-full-text
+  font-size: 13px !important
+  padding: 16px
+  color: #0a2138
+  font-family: 'Roboto', sans-serif
+
+.mdc-activation-status.activated
+
+  i
+    color: #f8a510
+    position: relative
+
+    &:before
+      content: ''
+      width: 24px
+      height: 24px
+      background: linear-gradient( to top, #f8a510, #FAD55E )
+      position: absolute
+      top: 0
+      left: 0
+      mix-blend-mode: lighten
+      border-radius: 8px
+
+.mdp-go-pro-box
+  margin-bottom: 40px
+  font-family: 'Roboto', sans-serif
+
+  > h3
+    font-size: 1.4em !important
+
+  p
+    font-size: 14px
+    color: rgba(10,33,56,.75)
+
+  a
+
+    &.mdp-button-pro
+      background: lighten( #f8c010, 10% )
+      padding: 10px 12px
+      border-radius: 4px
+      font-size: 13px
+      font-weight: 500
+      color: #0a2138
+      text-decoration: none
+      border: 1px solid #f8c010
+      margin-right: 20px
+
+      &:hover
+        text-decoration: none
+        background: #FAD55E
+        color: #000
+        box-shadow: 0 1px 4px 0 #f8c010
+
+    &.mdp-button-compare
+      background: rgba(2, 116, 230, 0.07)
+      padding: 10px 12px
+      border-radius: 4px
+      font-size: 13px
+      color: rgba(2, 116, 230, 1)
+      text-decoration: none
+      border: 1px solid rgba(2, 116, 230, 0.05)
+      margin-right: 20px
+
+      &:hover
+        text-decoration: none
+        background: rgba(2, 116, 230, 0.1)
+        color: rgba(2, 116, 230, 1)
+        box-shadow: 0 2px 4px -1px rgba(0,0,0,.05), 0 4px 5px 0 rgba(0,0,0,.03), 0 1px 10px 0 rgba(0,0,0,.03)
+
+  .mdp-pro-features
+    display: flex
+    flex-direction: row
+
+    ul
+      display: block
+      font-size: 14px
+      font-weight: 500
+      width: 50%
+
+      li
+        line-height: 2em
+        display: flex
+        align-items: center
+
+      i
+        color: #f8a510
+        position: relative
+        font-size: 18px
+        margin-right: 10px
+
+        &:before
+          content: ''
+          width: 18px
+          height: 18px
+          background: linear-gradient( to top, #f8a510, #FAD55E )
+          position: absolute
+          top: 0
+          left: 0
+          mix-blend-mode: lighten
+          border-radius: 8px
+
+      span
+        display: inline-block
+        font-size: 15px
+
+  .mdp-pro-buttons
+    display: flex
+
+/* Responsiveness */
+@media screen and (max-width: 1080px)
+
+  .mdp-go-pro-box
+
+    .mdp-pro-features
+      flex-direction: column
+
+      ul
+        width: 100%
+
+        &:first-of-type
+          margin-bottom: 0
+
+        &:last-of-type
+          margin-top: 0

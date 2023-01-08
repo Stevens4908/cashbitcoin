@@ -1,0 +1,3651 @@
+# Translation of Plugins - WP Go Maps (formerly WP Google Maps) - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Go Maps (formerly WP Google Maps) - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-25 19:46:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Go Maps (formerly WP Google Maps) - Development (trunk)\n"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1931
+#: html/map-edit-page/map-edit-page.html.php:1920
+msgid "Disable Zoom On Listing Click"
+msgstr "Desactivar el zoom al hacer clic en el catálogo"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:965
+#: html/map-edit-page/map-edit-page.html.php:684
+msgid "Location Placeholder"
+msgstr "Marcador de posición de ubicación"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:57
+msgid "Adjust your settings and save your map!"
+msgstr "¡Haz tus ajustes y guarda tu mapa!"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:56
+msgid "Map features"
+msgstr "Características del mapa"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:52
+msgid "Your map settings can be found here"
+msgstr "Los ajustes de tu mapa se puede encontrar aquí"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:51
+msgid "Open settings"
+msgstr "Abrir los ajustes"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:47
+msgid "Let's take a brief look at you map settings"
+msgstr "Echemos un breve vistazo a los ajustes de su mapa"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:42
+msgid "Here's a list of the markers on your map"
+msgstr "Aquí hay una lista de los marcadores en tu mapa"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:37
+msgid "Head over to the marker list"
+msgstr "Dirígete a la lista de marcadores"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:36
+msgid "Marker list"
+msgstr "Lista de marcadores"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:32
+msgid "You can come back and edit your marker later"
+msgstr "Puedes volver y editar tu marcador más tarde."
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:31
+msgid "Save marker"
+msgstr "Guardar marcador"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:27
+msgid "Type the location for your marker"
+msgstr "Escribe la ubicación de tu marcador"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:26
+msgid "Enter an address"
+msgstr "Introduce una dirección"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:22
+msgid "Let's place a marker on our map!"
+msgstr "¡Pongamos un marcador en nuestro mapa!"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:21
+msgid "Create a marker"
+msgstr "Crear un marcador"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:17
+msgid "Add markers and shapes using the quick add toolbar"
+msgstr "Añade marcadores y formas usando la barra de herramientas de añadir rápido"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:16
+msgid "Quick action tools"
+msgstr "Herramientas de acción rápida"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:9
+msgid "Start tour"
+msgstr "Empezar recorrido"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:6
+msgid "Need a little help getting started?"
+msgstr "¿Necesitas un poco de ayuda para empezar?"
+
+#: html/atlas-novus/settings-page.html.php:1918
+#: html/settings-page.html.php:1466
+msgid "Enable Dynamic SQL Refactors"
+msgstr "Activar refactores de SQL dinámicos"
+
+#: html/atlas-novus/settings-page.html.php:510 html/settings-page.html.php:568
+msgid "Only applies to new images, existing markers would need to be resaved, lightboxes will use full size"
+msgstr "Solo se aplica a imágenes nuevas, los marcadores existentes deberán volver a guardarse, las cajas de luz usarán el tamaño completo"
+
+#: html/atlas-novus/settings-page.html.php:503 html/settings-page.html.php:564
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: html/atlas-novus/settings-page.html.php:502 html/settings-page.html.php:563
+msgid "Small"
+msgstr "Pequeño"
+
+#: html/atlas-novus/settings-page.html.php:501 html/settings-page.html.php:562
+msgid "Medium"
+msgstr "Mediano"
+
+#: html/atlas-novus/settings-page.html.php:500 html/settings-page.html.php:561
+msgid "Large"
+msgstr "Grande"
+
+#: html/atlas-novus/settings-page.html.php:499 html/settings-page.html.php:560
+msgid "Full"
+msgstr "Lleno"
+
+#: html/atlas-novus/settings-page.html.php:497 html/settings-page.html.php:556
+msgid "Gallery Image Size"
+msgstr "Tamaño de imagen de la galería"
+
+#: html/atlas-novus/installer-page.html.php:365
+#: html/installer-page.html.php:261
+msgid "Skip installation, and finish up later?"
+msgstr "¿Omitir la instalación y terminar más tarde?"
+
+#: html/atlas-novus/installer-page.html.php:12
+#: html/atlas-novus/installer-page.html.php:364 html/installer-page.html.php:12
+#: html/installer-page.html.php:260
+msgid "We'll remind you in a day or two to finish up"
+msgstr "Te recordaremos en uno o dos días que termines"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:381
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2164
+msgid "Add shape labels, and start in streetview."
+msgstr "Añade las etiquetas de formas y comience en streetview."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:380
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2163
+msgid "Fit map to bounds, or focus on user location!"
+msgstr "¡Ajusta el mapa a los límites o concéntrate en la ubicación del usuario!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:375
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2158
+msgid "Add behaviour controls with our Pro version!"
+msgstr "¡Añade los controles de comportamiento con nuestra versión Pro!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:368
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:369
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2151
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2152
+msgid "Add behaviour controls!"
+msgstr "¡Añade los controles de comportamiento!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:352
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:662
+msgid "Advanced behaviour features."
+msgstr "Características de comportamiento avanzadas."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:351
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:661
+msgid "Additional filter controls!"
+msgstr "¡Controles de filtro adicionales!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:346
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:656
+msgid "Add store locator features with our Pro version!"
+msgstr "¡Añade las características de localizador de tiendas con nuestra versión Pro!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:339
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:340
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:649
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:650
+msgid "Get more store locator features!"
+msgstr "¡Obtén más características de localizador de tiendas!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:323
+msgid "Adjust styles and intensity of heatmaps."
+msgstr "Ajusta los estilos y la intensidad de los mapas de calor."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:322
+msgid "Create dynamic heatmaps quickly!"
+msgstr "¡Crea mapas de calor dinámicos rápidamente!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:317
+msgid "Add heatmaps with our Pro version"
+msgstr "Añade mapas de calor con nuestra versión Pro"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:310
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:311
+msgid "Add heatmaps to your map!"
+msgstr "¡Añade mapas de calor a tu mapa!"
+
+#: html/welcome.html.php:61
+msgid "* Clicking this button will send your email address (%s) to our server and automatically sign you up to the newsletter"
+msgstr "Al hacer clic en este botón, se enviará su dirección de correo electrónico (%s) a nuestro servidor y se suscribirá automáticamente al boletín."
+
+#: html/atlas-novus/welcome.html.php:52 html/welcome.html.php:59
+msgid "Join Newsletter"
+msgstr "Únete a nuestro boletín"
+
+#: html/welcome.html.php:57
+msgid "Receive specials, guides and latest news"
+msgstr "Recibe ofertas especiales, guías y las últimas noticias."
+
+#: html/atlas-novus/welcome.html.php:49 html/welcome.html.php:56
+msgid "Newsletters"
+msgstr "Boletines"
+
+#: html/atlas-novus/welcome.html.php:45 html/welcome.html.php:49
+msgid "Join Subreddit"
+msgstr "Únete a subreddit"
+
+#: html/welcome.html.php:47
+msgid "Join our Reddit Community"
+msgstr "Únete a nuestra comunidad en Reddit"
+
+#: html/atlas-novus/welcome.html.php:42 html/welcome.html.php:46
+msgid "Reddit"
+msgstr "Reddit"
+
+#: html/atlas-novus/welcome.html.php:38 html/welcome.html.php:39
+msgid "Join Facebook"
+msgstr "Únete en Facebook"
+
+#: html/welcome.html.php:37
+msgid "Join our Facebook Community"
+msgstr "Únete a nuestra comunidad en Facebook"
+
+#: html/atlas-novus/welcome.html.php:35 html/welcome.html.php:36
+msgid "Facebook Group"
+msgstr "Grupo de Facebook"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3509
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3511
+#: html/atlas-novus/support.html.php:139 html/support.html.php:96
+msgid "Reddit Community"
+msgstr "Comunidad de Reddit"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3501
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3503
+#: html/atlas-novus/support.html.php:138 html/support.html.php:95
+msgid "Facebook Community"
+msgstr "Comunidad de Facebook"
+
+#: html/atlas-novus/newsletter-opt-in.html.php:17
+#: html/newsletter-opt-in.html.php:13
+msgid "Thank you for joining our newsletter!"
+msgstr "¡Gracias por unirte a nuestro boletín!"
+
+#: html/map-edit-page/map-edit-page.html.php:2684
+msgid "WPML"
+msgstr "WPML"
+
+#: html/map-edit-page/map-edit-page.html.php:2683
+msgid "Translating the plugin with"
+msgstr "Traduciendo el plugin con"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1046
+#: html/map-edit-page/map-edit-page.html.php:544
+msgid "Show distance from search"
+msgstr "Mostrar distancia desde la búsqueda"
+
+#: html/atlas-novus/settings-page.html.php:1336
+#: html/settings-page.html.php:1565
+msgid "GDPR consent automatically enabled and configured by Complianz"
+msgstr "Consentimiento de GDPR habilitado y configurado automáticamente por Complianz"
+
+#: html/atlas-novus/settings-page.html.php:1334
+#: html/atlas-novus/settings-page.html.php:1861
+#: html/settings-page.html.php:1563
+msgid "Important Note"
+msgstr "Nota importante"
+
+#: html/atlas-novus/settings-page.html.php:1569
+#: html/settings-page.html.php:1283
+msgid "XML File"
+msgstr "Archivo XML"
+
+#: html/atlas-novus/settings-page.html.php:1561
+#: html/settings-page.html.php:1275
+msgid "Database"
+msgstr "Base de datos"
+
+#: html/atlas-novus/settings-page.html.php:862
+#: html/atlas-novus/settings-page.html.php:1113 html/settings-page.html.php:933
+#: html/settings-page.html.php:1101
+msgid "Dependencies"
+msgstr "Dependencias"
+
+#: html/atlas-novus/settings-page.html.php:1807
+#: html/settings-page.html.php:1366
+msgid "Data Management"
+msgstr "Gestión de datos"
+
+#: html/atlas-novus/settings-page.html.php:81
+#: html/atlas-novus/settings-page.html.php:1784
+#: html/settings-page.html.php:1363
+msgid "Danger Zone"
+msgstr "Zona peligrosa"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2543
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:74
+#: html/map-edit-page/marker-panel.html.php:85
+msgid "Position"
+msgstr "Posición"
+
+#: html/atlas-novus/settings-page.html.php:1512
+#: html/settings-page.html.php:1222
+msgid "OpenLayers Tileserver Key"
+msgstr "Clave del servidor de Tileserver de OpenLayers"
+
+#: html/atlas-novus/settings-page.html.php:364 html/settings-page.html.php:147
+msgid "examples"
+msgstr "ejemplos"
+
+#: html/atlas-novus/settings-page.html.php:454 html/settings-page.html.php:520
+msgid "Retina Icon Height"
+msgstr "Altura del icono de retina"
+
+#: html/atlas-novus/settings-page.html.php:446 html/settings-page.html.php:514
+msgid "Retina Icon Width"
+msgstr "Ancho del icono de retina"
+
+#: html/atlas-novus/settings-page.html.php:1284 html/settings-page.html.php:251
+msgid "Checkboxes"
+msgstr "Casillas de verificación"
+
+#: html/atlas-novus/settings-page.html.php:1278 html/settings-page.html.php:245
+msgid "Dropdown"
+msgstr "Lista desplegable"
+
+#: html/atlas-novus/settings-page.html.php:1272 html/settings-page.html.php:239
+msgid "Filter by category displayed as"
+msgstr "Filtrar por categoría mostrada como"
+
+#: html/atlas-novus/settings-page.html.php:1263 html/settings-page.html.php:231
+msgid "Example: Only show the marker if it belongs to Cat A _AND_ Cat B."
+msgstr "Ejemplo: solo muestra el marcador si pertenece al Cat A _AND_ Cat B."
+
+#: html/atlas-novus/settings-page.html.php:1263 html/settings-page.html.php:231
+msgid "AND"
+msgstr "Y"
+
+#: html/atlas-novus/settings-page.html.php:1250 html/settings-page.html.php:218
+msgid "Category Selection Logic"
+msgstr "Lógica de selección de categoría"
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:76
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:129
+#: html/atlas-novus/map-edit-page/pointlabel-panel.html.php:44
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:77
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:118
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:68
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:125
+#: html/map-edit-page/circle-panel.html.php:71
+#: html/map-edit-page/polygon-panel.html.php:113
+#: html/map-edit-page/rectangle-panel.html.php:57
+#: includes/compat/class.pro-below-8.1-compatibility.php:108
+#: includes/compat/class.pro-below-8.1-compatibility.php:198
+msgid "Fill Color"
+msgstr "Color de relleno"
+
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:102
+#: html/map-edit-page/polygon-panel.html.php:99
+#: includes/compat/class.pro-below-8.1-compatibility.php:105
+#: includes/compat/class.pro-below-8.1-compatibility.php:195
+msgid "Line Opacity"
+msgstr "Opacidad de la línea"
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:95
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:148
+#: html/atlas-novus/map-edit-page/pointlabel-panel.html.php:50
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:96
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:137
+#: html/atlas-novus/map-edit-page/polyline-panel.html.php:62
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:89
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:144
+#: html/map-edit-page/polygon-panel.html.php:90
+#: html/map-edit-page/polyline-panel.html.php:72
+#: includes/compat/class.pro-below-8.1-compatibility.php:102
+#: includes/compat/class.pro-below-8.1-compatibility.php:192
+#: includes/compat/class.pro-below-8.1-compatibility.php:635
+#: includes/compat/class.pro-below-8.1-compatibility.php:733
+msgid "Line Color"
+msgstr "Color de la línea"
+
+#: includes/tables/class.admin-map-datatable.php:116
+#: includes/tables/class.admin-marker-datatable.php:93
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1153
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:187
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3324
+#: html/map-edit-page/circle-panel.html.php:95
+msgid "Add Circle"
+msgstr "Añadir círculo"
+
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:14
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:30
+#: html/map-edit-page/marker-panel.html.php:17
+#: html/map-edit-page/marker-panel.html.php:37
+msgid "<strong>Click and drag</strong> to adjust the markers position."
+msgstr "<strong>Haz clic y arrastra</strong> para ajustar la posición de los marcadores."
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:91
+#: html/map-edit-page/heatmap-panel.html.php:93
+msgid "Save Heatmap"
+msgstr "Guardar mapa de calor"
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:90
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3283
+#: html/map-edit-page/heatmap-panel.html.php:92
+msgid "Add Heatmap"
+msgstr "Agregar mapa de calor"
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:47
+#: html/map-edit-page/heatmap-panel.html.php:43
+msgid "Gradient"
+msgstr "Gradiente"
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:17
+#: html/map-edit-page/heatmap-panel.html.php:22
+msgid "<strong>Hold right mouse</strong> to draw points freehand"
+msgstr "<strong>Mantén pulsado el botón derecho del ratón</strong> para dibujar puntos a mano alzada"
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:14
+#: html/map-edit-page/heatmap-panel.html.php:17
+msgid "<strong>Drag</strong> points on the heatmap to re-position them."
+msgstr "<strong>Arrastra</strong> puntos en el mapa de calor para reubicarlos."
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:11
+#: html/map-edit-page/heatmap-panel.html.php:12
+msgid "<strong>Click</strong> an existing heatmap point to remove points from the heatmap."
+msgstr "<strong>Haz clic</strong> en un punto del mapa de calor existente para eliminar puntos del mapa de calor."
+
+#: html/map-edit-page/map-edit-page.html.php:2548
+msgid "Edit existing Markers"
+msgstr "Editar marcadores existentes"
+
+#: html/map-edit-page/map-edit-page.html.php:2463
+msgid "Edit Circle"
+msgstr "Editar círculo"
+
+#: html/map-edit-page/map-edit-page.html.php:2444
+msgid "Edit Heatmaps"
+msgstr "Editar mapas de calor"
+
+#: html/map-edit-page/map-edit-page.html.php:2381
+msgid "Edit Marker"
+msgstr "Editar el marcador"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3135
+#: html/map-edit-page/map-edit-page.html.php:2282
+msgid "View the demos"
+msgstr "Ver las demostraciones"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2067
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2071
+#: html/map-edit-page/map-edit-page.html.php:2144
+#: html/map-edit-page/map-edit-page.html.php:2148
+msgid "Entries"
+msgstr "Entradas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2056
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2060
+#: html/map-edit-page/map-edit-page.html.php:2134
+#: html/map-edit-page/map-edit-page.html.php:2138
+msgid "Show:"
+msgstr "Mostrar:"
+
+#: html/map-edit-page/map-edit-page.html.php:2122
+msgid "Example: Showing entries"
+msgstr "Ejemplo: Enseñar entradas"
+
+#: html/map-edit-page/map-edit-page.html.php:2110
+msgid "Change entries string"
+msgstr "Cambiar cadena de entradas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2043
+#: html/map-edit-page/map-edit-page.html.php:2097
+#: html/map-edit-page/map-edit-page.html.php:2101
+msgid "entries"
+msgstr "entradas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2032
+#: html/map-edit-page/map-edit-page.html.php:2087
+#: html/map-edit-page/map-edit-page.html.php:2091
+msgid "to"
+msgstr "hasta"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2021
+#: html/map-edit-page/map-edit-page.html.php:2078
+#: html/map-edit-page/map-edit-page.html.php:2082
+msgid "of"
+msgstr "de"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2006
+#: html/map-edit-page/map-edit-page.html.php:2069
+#: html/map-edit-page/map-edit-page.html.php:2073
+msgid "Showing:"
+msgstr "Mostrando: "
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2001
+#: html/map-edit-page/map-edit-page.html.php:2064
+msgid "Change results string"
+msgstr "Cambiar cadena de entradas"
+
+#: html/map-edit-page/map-edit-page.html.php:2056
+msgid "Example: Showing 1 of 6 to 6 entries"
+msgstr "Ejemplo: Mostrando 1 de 6 a 6 entradas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1995
+#: html/map-edit-page/map-edit-page.html.php:2041
+msgid "Search:"
+msgstr "Buscar:"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1990
+#: html/map-edit-page/map-edit-page.html.php:2033
+msgid "Change listing table search string"
+msgstr "Cambiar la cadena de búsqueda de la tabla de listas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1839
+#: html/map-edit-page/map-edit-page.html.php:1996
+msgid "Page number buttons only"
+msgstr "Solo enlaces de número de página"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1734
+#: html/map-edit-page/map-edit-page.html.php:1646
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: html/map-edit-page/map-edit-page.html.php:1590
+msgid "Basic list"
+msgstr "Lista básica"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1557
+#: html/atlas-novus/styling-page.html.php:34
+#: html/map-edit-page/map-edit-page.html.php:1528
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1553
+#: html/atlas-novus/styling-page.html.php:46
+#: html/map-edit-page/map-edit-page.html.php:1520
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1548
+#: html/map-edit-page/map-edit-page.html.php:1512
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: html/map-edit-page/map-edit-page.html.php:1486
+#: html/map-edit-page/map-edit-page.html.php:1491
+msgid "Inherit Global Setting"
+msgstr "Heredar ajustes globales"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2801
+#: html/map-edit-page/map-edit-page.html.php:1367
+msgid "Integration"
+msgstr "Integración"
+
+#: html/settings-page.html.php:1156
+msgid "Items (Mobile)"
+msgstr "Elementos (móvil)"
+
+#: html/settings-page.html.php:1151
+msgid "Items (Tablet)"
+msgstr "Elementos (Tablet)"
+
+#: html/atlas-novus/settings-page.html.php:651 html/settings-page.html.php:755
+msgid "Link text"
+msgstr "Texto del enlace"
+
+#: html/atlas-novus/settings-page.html.php:674 html/settings-page.html.php:675
+msgid "Resize Images"
+msgstr "Redimensionar imágenes"
+
+#: html/atlas-novus/settings-page.html.php:484 html/settings-page.html.php:542
+msgid "Disable Lightbox"
+msgstr "Desactiva la caja de luz"
+
+#: includes/class.strings.php:108
+msgid "Autocomplete disabled. <a href=\"%s\" target=\"_BLANK\">Find out more</a>."
+msgstr "El autocompletado está desactivado. <a href=\"%s\" target=\"_BLANK\">Obtener más información</a>."
+
+#: includes/class.strings.php:103
+msgid "Are you sure you want to delete these maps?"
+msgstr "¿Seguro que quieres borrar estos mapas?"
+
+#: includes/class.strings.php:102
+msgid "Are you sure you want to delete this map?"
+msgstr "¿Seguro que quieres borrar este mapa?"
+
+#: html/atlas-novus/store-locator.html.php:17 html/store-locator.html.php:17
+msgid "Radius:"
+msgstr "Radio:"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:966
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:977
+#: html/atlas-novus/store-locator.html.php:9 html/store-locator.html.php:9
+msgid "Enter a location"
+msgstr "Introduce una ubicación"
+
+#: html/atlas-novus/settings-page.html.php:395 html/settings-page.html.php:178
+msgid "<strong>Legacy</strong> - This setting is the same as Default, but provides options to change individual components to the modern style."
+msgstr "<strong>Heredado</strong> - Este ajuste es el mismo que el ajuste por defecto, pero proporciona opciones para cambiar componentes individuales al estilo moderno."
+
+#: html/atlas-novus/settings-page.html.php:425 html/settings-page.html.php:208
+msgid "<strong>Bare Bones</strong> - Applies no styling to the components at all. This is recommended for designers and developers who want to style the components from scratch."
+msgstr "<strong>Esqueleto</strong> - No aplica ningún estilo a los componentes. Se recomienda para diseñadores y desarrolladores que quieran dar estilo desde cero a los componentes."
+
+#: includes/class.strings.php:28
+msgid "You have not entered a <b>Google Maps API Key</b>.<br /><br />Please go to the your admin area, then Maps, then Settings, then the Advanced tab to <a href=\"%s\">enter your Google Maps API key</a>.<br /><br />Alternatively, <a href=\"%s\">choose the Open Layers engine</a> to avoid getting an API key."
+msgstr "No has introducido una <b>clave de la API de Google Maps</b>.<br /><br />Por favor, ve a tu área de administración, luego a «Mapas», después a «Ajustes» y, finalmente, a la pestaña «Avanzado» para <a href=\"%s\">introducir tu clave de la API de Google Maps</a>.<br /><br />Alternativamente, <a href=\"%s\">elige el motor Open Layers</a> para evitar tener que obtener una clave de la API."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1239
+#: html/ol-feature-unavailable.html.php:9
+msgid "Not available while using the OpenLayers engine."
+msgstr "No disponible mientras se usa el motor OpenLayers."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3587
+#: html/map-edit-page/map-edit-page.html.php:2524
+msgid "Please ensure you <a href=\"%s\">enter a Google Maps API key</a> to continue using Google Maps. Alternatively, swap over to Open Layers by clicking <a id=\"wpgm-swap-to-open-layers\" href=\"%s\">here</a>."
+msgstr "Asegúrate de <a href=\"%s\">introducir una clave API de Google Maps</a> para continuar usando Google Maps. Alternativamente, puedes cambiar a Open Layers haciendo clic <a id=\"wpgm-swap-to-open-layers\" href=\"%s\">aquí</a>."
+
+#: html/atlas-novus/map-list-page.html.php:70 html/map-list-page.html.php:72
+#: legacy-core.php:1082
+msgid "once off!"
+msgstr "en descuento!"
+
+#: includes/class.strings.php:100
+msgid "Geocoding this address failed. Please check you have enabled the Geocoding API for your Google Maps API project."
+msgstr "Ha fallado la geocodificación de esta dirección. Por favor, comprueba que has activado la API de geocodificación para tu proyecto API de Google Maps."
+
+#: includes/class.strings.php:99
+msgid "Geocode was not successful for the following reason: "
+msgstr "Ha fallado la geolocalización por el siguiente motivo: "
+
+#: includes/class.strings.php:95
+msgid "Re-Enable Interactions"
+msgstr "Reactivar las interacciones"
+
+#: includes/class.strings.php:94
+msgid "Interactions Enabled"
+msgstr "Interacciones activadas"
+
+#: includes/class.strings.php:93
+msgid "Some interactions are disabled."
+msgstr "Algunas interacciones están desactivadas."
+
+#: includes/class.strings.php:91
+msgid "Duplicate custom field names, please ensure you only add unique custom field names."
+msgstr "Al duplicar los nombres de los campos personalizados, por favor, asegúrate de que solo añades nombres de campos personalizados únicos."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3150
+#: html/map-edit-page/map-edit-page.html.php:2292
+msgid "Need help? <a href=\"https://www.wpgmaps.com/forums/\" target=\"_BLANK\">Ask a question on our support forum</a>."
+msgstr "¿Necesitas ayuda? <a href=\"https://www.wpgmaps.com/forums/\" target=\"_BLANK\">Haz tus preguntas en nuestro foro de soporte</a>."
+
+#: html/map-edit-page/map-edit-page.html.php:2287
+msgid "Have a sales question? Contact Nick on <a href=\"mailto:nick@wpgmaps.com\">nick@wpgmaps.com</a> or use our <a href=\"https://www.wpgmaps.com/contact-us/\" target=\"_BLANK\">contact form</a>."
+msgstr "¿Tienes preguntas comerciales? Contacta con Nick en <a href=\"mailto:nick@wpgmaps.com\">nick@wpgmaps.com</a> o usa nuestro <a href=\"https://www.wpgmaps.com/contact-us/\" target=\"_BLANK\">formulario de contacto</a>."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3059
+#: html/map-edit-page/map-edit-page.html.php:2276
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3131
+#: html/map-edit-page/map-edit-page.html.php:2263
+msgid "Once you're a pro user, you'll receive free updates and support forever! You'll also receive amazing specials on any future plugins we release."
+msgstr "Una vez que seas un usuario pro, recibirás ¡actualizaciones gratuitas y soporte para siempre! También recibirás increíbles ofertas en cualquier plugin que lancemos en el futuro."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3130
+#: html/map-edit-page/map-edit-page.html.php:2262
+msgid "Free updates and support forever"
+msgstr "Actualizaciones gratuitas y soporte para siempre"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3125
+#: html/map-edit-page/map-edit-page.html.php:2254
+msgid "You'll receive a download link immediately. Simply upload and activate the Pro plugin to your WordPress admin area and you're done!"
+msgstr "Recibirás un enlace de descarga inmediatamente. Simplemente sube y activa el plugin Pro en tu área de administración de WordPress y ¡ya está!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3124
+#: html/map-edit-page/map-edit-page.html.php:2253
+msgid "Easy Upgrade"
+msgstr "Fácil actualización"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3119
+#: html/map-edit-page/map-edit-page.html.php:2245
+msgid "We pride ourselves on providing quick and amazing support. <a target=\"_BLANK\" href=\"http://wordpress.org/support/view/plugin-reviews/wp-google-maps?filter=5\">Read what some of our users think of our support</a>."
+msgstr "Estamos orgullosos de proporcionar un soporte rápido e increíble. <a target=\"_BLANK\" href=\"https://wordpress.org/support/view/plugin-reviews/wp-google-maps?filter=5\">Lee lo que algunos de nuestros usuarios piensan de nuestro soporte</a>."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3118
+#: html/map-edit-page/map-edit-page.html.php:2244
+msgid "Amazing Support"
+msgstr "Increíble soporte"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3113
+#: html/map-edit-page/map-edit-page.html.php:2236
+msgid "Add custom polygons and polylines to your map by simply clicking on the map. Perfect for displaying routes and serviced areas."
+msgstr "Añade a tu mapa polígonos y polilíneas personalizadas con solo hacer clic en el mapa. Perfecto para visualizar rutas y áreas de servicio."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3112
+#: html/map-edit-page/map-edit-page.html.php:2235
+msgid "Polygons and Polylines"
+msgstr "Polígonos y polilíneas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3107
+#: html/map-edit-page/map-edit-page.html.php:2227
+msgid "Add your own KML layers or Fusion Table data to your map"
+msgstr "Añade a tus mapas tus propias capas KML o datos de Fusión Tables"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3106
+#: html/map-edit-page/map-edit-page.html.php:2226
+msgid "Add KML &amp; Fusion Tables"
+msgstr "Añadir KML y Fusion Tables"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3101
+#: html/map-edit-page/map-edit-page.html.php:2218
+msgid "Export your markers to a CSV file for quick and easy editing. Import large quantities of markers at once."
+msgstr "Exporta tus marcadores a un archivo CSV para una edición rápida y fácil. Importa grandes cantidades de marcadores a la vez."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3100
+#: html/map-edit-page/map-edit-page.html.php:2217
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3095
+#: html/map-edit-page/map-edit-page.html.php:2209
+msgid "Enable advanced options such as showing your visitor's location, marker sorting, bicycle layers, traffic layers and more!"
+msgstr "Activa opciones avanzadas, como mostrar la ubicación de tus visitantes, la clasificación de los marcadores, las capas para bicicletas, las capas de tráfico ¡y más!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3094
+#: html/map-edit-page/map-edit-page.html.php:2208
+msgid "Advanced options"
+msgstr "Opciones avanzadas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3089
+#: html/map-edit-page/map-edit-page.html.php:2200
+msgid "Create and assign categories to your markers which can then be filtered on your map."
+msgstr "Crea y asigna categorías a tus marcadores que luego pueden ser filtradas en tu mapa."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3088
+#: html/map-edit-page/map-edit-page.html.php:2199
+msgid "Add categories to your markers"
+msgstr "Añadir categorías a tus marcadores"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3083
+#: html/map-edit-page/map-edit-page.html.php:2191
+msgid "Choose between three methods of listing your markers."
+msgstr "Elige entre tres métodos de listado para tus marcadores."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3077
+#: html/map-edit-page/map-edit-page.html.php:2182
+msgid "Create as many maps as you like."
+msgstr "Crea tantos mapas como quieras."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3071
+#: html/map-edit-page/map-edit-page.html.php:2173
+msgid "Allow your visitors to get directions to your markers. Either use their location as the starting point or allow them to type in an address."
+msgstr "Permite que tus visitantes obtengan indicaciones para llegar a tus marcadores. Utiliza su ubicación como punto inicial o permíteles escribir una dirección."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3065
+#: html/map-edit-page/map-edit-page.html.php:2164
+msgid "Add titles, descriptions, HTML, images, animations and custom icons to your markers."
+msgstr "Añade títulos, descripciones, HTML, imágenes, animaciones e iconos personalizados a tus marcadores."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3064
+#: html/map-edit-page/map-edit-page.html.php:2163
+msgid "Create custom markers with detailed info windows"
+msgstr "Crea marcadores personalizados con ventanas de información detallada"
+
+#: includes/class.strings.php:98
+msgid "Use ctrl + scroll to zoom the map"
+msgstr "Usa ctrl + scroll para cambiar el zoom del mapa"
+
+#: includes/class.strings.php:97
+msgid "Use two fingers to move the map"
+msgstr "Usa dos dedos para mover el mapa"
+
+#: includes/class.strings.php:89
+msgid "Invalid theme data"
+msgstr "Datos del tema no válidos"
+
+#: html/atlas-novus/settings-page.html.php:1256 html/settings-page.html.php:224
+msgid "OR"
+msgstr "OR"
+
+#: html/atlas-novus/map-list-page.html.php:18 includes/class.map.php:155
+#: includes/class.strings.php:107
+msgid "New Map"
+msgstr "Nuevo mapa"
+
+#: includes/class.strings.php:87
+msgid "This operation is not reversable. We recommend you take a backup before proceeding. Would you like to continue?"
+msgstr "Esta operación no es reversible. Antes de proceder, te recomendamos que hagas una copia de seguridad. ¿Te gustaría continuar?"
+
+#: includes/class.rest-api.php:777 includes/class.rest-api.php:792
+msgid "Removed %s markers"
+msgstr "Eliminados %s marcadores"
+
+#: html/atlas-novus/settings-page.html.php:1990
+#: html/settings-page.html.php:1514
+msgid "Always rebuilds combined script files and script cache, does not load combined and minified scripts. Includes database query SQL with REST API responses."
+msgstr "Siempre reconstruye archivos de script combinados y la caché de script, no carga scripts combinados y minimizados. Incluye la consulta de la base de datos SQL con respuestas de la API REST."
+
+#: html/settings-page.html.php:1434
+msgid "Miscellaneous Settings"
+msgstr "Ajustes varios"
+
+#: html/atlas-novus/settings-page.html.php:1631
+#: html/settings-page.html.php:1359
+msgid "Flush"
+msgstr "Purgar"
+
+#: html/settings-page.html.php:1352
+msgid "Other Caching"
+msgstr "Otra caché"
+
+#: html/settings-page.html.php:1194
+msgid ""
+"This API key can be obtained from \n"
+"\t\t\t\t\t\tthe <a href='https://wpgmaps.com/google-maps-developer-console/' target='_BLANK'>Google Developers Console</a>. Our <a href='http://www.wpgmaps.com/documentation/creating-a-google-maps-api-key/' target='_BLANK'>documentation</a> provides a full guide on how to obtain this."
+msgstr ""
+"Esta clave de la API puede obtenerse en \n"
+"\t\t\t\t\t\tla <a href='https://wpgmaps.com/google-maps-developer-console/' target='_BLANK'>consola para desarrolladores de Google</a>. Nuestra <a href='http://www.wpgmaps.com/documentation/creating-a-google-maps-api-key/' target='_BLANK'>documentación</a> proporciona una guía completa sobre cómo obtenerla."
+
+#: html/settings-page.html.php:1183
+msgid "API Keys"
+msgstr "Claves de la API"
+
+#: html/settings-page.html.php:814
+msgid ""
+"Add Beautiful Marker Listings\n"
+"\t\t\t</a> \n"
+"\t\t\tto your maps with the Pro version for only $39.99 once off. Support and updates included forever."
+msgstr ""
+"Añade bonitas listas de marcadores\n"
+"\t\t\t</a> \n"
+"\t\t\ta tus mapas con la versión Pro por un solo pago de 39.99 $. Soporte y actualizaciones incluidos para siempre."
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:68
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:107
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:69
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:60
+#: html/atlas-novus/settings-page.html.php:564 html/settings-page.html.php:773
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#: html/atlas-novus/settings-page.html.php:440 html/settings-page.html.php:509
+msgid "Subscriber"
+msgstr "Suscriptor"
+
+#: html/atlas-novus/settings-page.html.php:439 html/settings-page.html.php:508
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: html/atlas-novus/settings-page.html.php:438 html/settings-page.html.php:507
+msgid "Author"
+msgstr "Autor"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1213
+#: html/atlas-novus/settings-page.html.php:437 html/settings-page.html.php:506
+msgid "Editor"
+msgstr "Editor"
+
+#: html/atlas-novus/settings-page.html.php:436 html/settings-page.html.php:505
+msgid "Admin"
+msgstr "Administrador"
+
+#: html/atlas-novus/settings-page.html.php:1499 html/settings-page.html.php:493
+msgid "Prevent other plugins and theme loading API"
+msgstr "Evitar que carguen la API otros plugins y temas"
+
+#: html/atlas-novus/settings-page.html.php:1548 html/settings-page.html.php:488
+msgid "Always exclude engine API on pages"
+msgstr "Excluir siempre en las páginas el motor de la API"
+
+#: html/atlas-novus/settings-page.html.php:1542 html/settings-page.html.php:483
+msgid "Always include engine API on pages"
+msgstr "Incluir siempre en las páginas el motor de la API"
+
+#: html/atlas-novus/settings-page.html.php:1466 html/settings-page.html.php:451
+msgid "Load Maps Engine API"
+msgstr "Cargar la API del motor de mapas"
+
+#: html/atlas-novus/settings-page.html.php:125 html/settings-page.html.php:293
+msgid "Tile Server URL"
+msgstr "Título de la URL del servidor"
+
+#: html/atlas-novus/settings-page.html.php:101 html/settings-page.html.php:53
+msgid "Maps Engine"
+msgstr "Motor de los mapas"
+
+#: html/atlas-novus/settings-page.html.php:1638 html/settings-page.html.php:280
+msgid "Use FontAwesome"
+msgstr "Usar FontAwesome"
+
+#: html/atlas-novus/settings-page.html.php:363 html/settings-page.html.php:146
+msgid "User Interface Style"
+msgstr "Usar el estilo de la interfaz"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1217
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1391
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1398
+#: html/theme-panel.html.php:413
+msgid "Theme Data"
+msgstr "Datos del tema"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1360
+#: html/theme-panel.html.php:385
+msgid "Invert Lightness"
+msgstr "Invertir iluminación"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1339
+#: html/theme-panel.html.php:374
+msgid "Hue"
+msgstr "Tono"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1310
+#: html/theme-panel.html.php:350
+msgid "Lightness"
+msgstr "Iluminación"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1304
+#: html/theme-panel.html.php:341
+msgid "Saturation"
+msgstr "Saturación"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1298
+#: html/theme-panel.html.php:332
+msgid "Gamma"
+msgstr "Gamma"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1292
+#: html/theme-panel.html.php:320
+msgid "Weight"
+msgstr "Peso"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1286
+#: html/theme-panel.html.php:312
+msgid "Label"
+msgstr "Etiqueta"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1279
+#: html/theme-panel.html.php:303
+msgid "On"
+msgstr "Activado"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1276
+#: html/theme-panel.html.php:298
+msgid "Simplified"
+msgstr "Simplificado"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1273
+#: html/theme-panel.html.php:293
+msgid "Off"
+msgstr "Desactivado"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1270
+#: html/theme-panel.html.php:288
+msgid "Inherit"
+msgstr "Heredar"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1266
+#: html/theme-panel.html.php:282
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1258
+#: html/theme-panel.html.php:268
+msgid "Feature"
+msgstr "Característica"
+
+#: html/theme-panel.html.php:254
+msgid "Open Theme Editor"
+msgstr "Abrir el editor de temas"
+
+#: html/theme-panel.html.php:248
+msgid "Customise Theme"
+msgstr "Personalizar tema"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1249
+#: html/theme-panel.html.php:241
+msgid "Theme Editor"
+msgstr "Editor de temas"
+
+#: html/atlas-novus/theme-panel.html.php:206 html/theme-panel.html.php:212
+msgid "Night Mode"
+msgstr "Modo nocturno"
+
+#: html/atlas-novus/ol-theme-panel.html.php:60
+#: html/atlas-novus/theme-panel.html.php:184 html/theme-panel.html.php:190
+msgid "Old Fashioned"
+msgstr "Antiguo"
+
+#: html/atlas-novus/theme-panel.html.php:162 html/theme-panel.html.php:168
+msgid "Monochrome"
+msgstr "Monocromo"
+
+#: html/atlas-novus/theme-panel.html.php:140 html/theme-panel.html.php:146
+msgid "Dark Grey"
+msgstr "Gris oscuro"
+
+#: html/atlas-novus/theme-panel.html.php:118 html/theme-panel.html.php:124
+msgid "Red"
+msgstr "Rojo"
+
+#: html/atlas-novus/theme-panel.html.php:96 html/theme-panel.html.php:102
+msgid "Pale"
+msgstr "Descolorido"
+
+#: html/atlas-novus/ol-theme-panel.html.php:16
+#: html/atlas-novus/theme-panel.html.php:74 html/theme-panel.html.php:80
+msgid "Grayscale"
+msgstr "Escala de grises"
+
+#: html/atlas-novus/theme-panel.html.php:52 html/theme-panel.html.php:58
+msgid "Apple Maps"
+msgstr "Mapas de Apple"
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:59
+#: html/atlas-novus/theme-panel.html.php:30
+#: html/map-edit-page/heatmap-panel.html.php:57 html/theme-panel.html.php:36
+msgid "Blue"
+msgstr "Azul"
+
+#: html/atlas-novus/ol-theme-panel.html.php:9
+#: html/atlas-novus/ol-theme-panel.html.php:20
+#: html/atlas-novus/ol-theme-panel.html.php:31
+#: html/atlas-novus/ol-theme-panel.html.php:42
+#: html/atlas-novus/ol-theme-panel.html.php:53
+#: html/atlas-novus/ol-theme-panel.html.php:64
+#: html/atlas-novus/ol-theme-panel.html.php:75
+#: html/atlas-novus/ol-theme-panel.html.php:86
+#: html/atlas-novus/styling-page.html.php:128
+#: html/atlas-novus/theme-panel.html.php:21
+#: html/atlas-novus/theme-panel.html.php:43
+#: html/atlas-novus/theme-panel.html.php:65
+#: html/atlas-novus/theme-panel.html.php:87
+#: html/atlas-novus/theme-panel.html.php:109
+#: html/atlas-novus/theme-panel.html.php:131
+#: html/atlas-novus/theme-panel.html.php:153
+#: html/atlas-novus/theme-panel.html.php:175
+#: html/atlas-novus/theme-panel.html.php:197
+#: html/atlas-novus/theme-panel.html.php:219 html/theme-panel.html.php:27
+#: html/theme-panel.html.php:49 html/theme-panel.html.php:71
+#: html/theme-panel.html.php:93 html/theme-panel.html.php:115
+#: html/theme-panel.html.php:137 html/theme-panel.html.php:159
+#: html/theme-panel.html.php:181 html/theme-panel.html.php:203
+#: html/theme-panel.html.php:225
+msgid "Select Preset"
+msgstr "Seleccionar preajuste"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1230
+#: html/theme-panel.html.php:5
+msgid "Theme Presets"
+msgstr "Preajustes del tema"
+
+#: html/map-edit-page/map-edit-page.html.php:361
+msgid "Looking for styling settings? Try our new <a href='%s' target='_blank'>User Interface Style</a> setting."
+msgstr "¿Buscando ajustes de estilo? Prueba nuestro ajuste de «<a href='%s' target='_blank'>Estilo de la interfaz de usuario</a>». "
+
+#: html/atlas-novus/settings-page.html.php:1888
+#: html/settings-page.html.php:1443
+msgid "We recommend using this setting if you frequently experience HTTP 414 - Request URI too long. We do not recommend using this setting if your site uses REST caching or a CDN."
+msgstr "Recomendamos usar este ajuste si experimentas frecuentemente «HTTP 414 - Solicitud URI demasiado larga. No recomendamos usar este ajuste si tu sitio usa la caché REST o una CDN."
+
+#: html/atlas-novus/settings-page.html.php:1877
+#: html/settings-page.html.php:1437
+msgid "Disable Compressed Path Variables"
+msgstr "Desactivar las variables de ruta comprimidas"
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:53
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1512
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1836
+#: html/atlas-novus/ol-theme-panel.html.php:5
+#: html/atlas-novus/settings-page.html.php:533
+#: html/atlas-novus/styling-page.html.php:129
+#: html/atlas-novus/theme-panel.html.php:8
+#: html/map-edit-page/heatmap-panel.html.php:50
+#: html/map-edit-page/map-edit-page.html.php:1416
+#: html/map-edit-page/map-edit-page.html.php:1433
+#: html/map-edit-page/map-edit-page.html.php:1450
+#: html/map-edit-page/map-edit-page.html.php:1467
+#: html/map-edit-page/map-edit-page.html.php:1991
+#: html/settings-page.html.php:590 html/settings-page.html.php:607
+#: html/settings-page.html.php:624 html/settings-page.html.php:641
+#: html/theme-panel.html.php:14
+msgid "Default"
+msgstr "Por defecto"
+
+#: html/atlas-novus/map-edit-page/bulk-marker-editor-dialog.html.php:47
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:173
+#: html/map-edit-page/marker-panel.html.php:194
+#: includes/tables/class.admin-marker-datatable.php:47
+msgid "Sticky"
+msgstr "Fijo"
+
+#: includes/class.map.php:302
+msgid "The plugin couldn't find the directory %s, which is the directory your settings specify to use for XML caching. Please make sure the directory exists, and that you assign file permissions of 755 to this directory."
+msgstr "El plugin no ha podido encontrar el directorio %s, que es el directorio que tus ajustes especifican para usar para el almacenamiento XML en la caché XML. Por favor, asegúrate de que el directorio existe y de que le asignas los permisos de archivo 755 a este directorio."
+
+#: includes/class.strings.php:80
+msgid "from searched location"
+msgstr "desde la ubicación buscada"
+
+#: includes/class.strings.php:79
+msgid "from your location"
+msgstr "desde tu ubicación"
+
+#: includes/class.strings.php:76
+msgid "Uploading file"
+msgstr "Subiendo archivo"
+
+#: includes/class.strings.php:75
+msgid "Upload Complete"
+msgstr "Subida completa"
+
+#: includes/class.strings.php:73
+msgid "Are you sure you want to overwrite the existing theme data?"
+msgstr "¿Estás seguro de querer sobreescribir los datos existentes del tema?"
+
+#: includes/class.strings.php:72
+msgid "No picture found"
+msgstr "No se ha encontrado ninguna imagen"
+
+#: includes/class.strings.php:70
+msgid "Please fill out both the \"from\" and \"to\" fields"
+msgstr "Por favor, completa los campos «desde» y «a»"
+
+#: includes/class.strings.php:69
+msgid "Unknown directions service status"
+msgstr "Estado del servicio de direcciones desconocido"
+
+#: includes/class.strings.php:68
+msgid "Fetching directions..."
+msgstr "Obteniendo direcciones…"
+
+#: includes/class.strings.php:66
+msgid "No GPS coordinates found"
+msgstr "No se han encontrado coordenadas GPS"
+
+#: html/atlas-novus/settings-page.html.php:462 html/settings-page.html.php:530
+msgid "Greedy Gesture Handling"
+msgstr "Gestión de exceso de gestos"
+
+#: html/atlas-novus/settings-page.html.php:875 html/settings-page.html.php:948
+msgid "Do not Enqueue Datatables"
+msgstr "No poner en cola las tablas de datos"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1824
+#: includes/compat/class.pro-below-8.1-compatibility.php:1960
+#: includes/compat/class.pro-below-8.1-compatibility.php:1994
+#: includes/compat/class.pro-below-8.1-compatibility.php:2057
+#: includes/compat/class.pro-below-8.1-compatibility.php:2123
+#: includes/compat/class.pro-below-8.1-compatibility.php:2173
+#: includes/compat/class.pro-below-8.1-compatibility.php:2221
+#: includes/compat/class.pro-below-8.1-compatibility.php:2271
+msgid "You do not have permission to perform this function"
+msgstr "No tienes permisos para llevar a cabo esta función"
+
+#: html/atlas-novus/settings-page.html.php:1908
+#: html/settings-page.html.php:1457
+msgid "Use this setting if you are experiencing issues with Autoptimize's CSS aggregation. This may cause issues on setups with a large amount of marker data."
+msgstr "Utiliza este ajustes si experimentas problemas con la agregación CSS de Autoptimize. Esto puede causar problemas en configuraciones con una gran cantidad de datos de marcadores."
+
+#: html/atlas-novus/settings-page.html.php:1897
+#: html/settings-page.html.php:1451
+msgid "Disable Autoptimize Compatibility Fix"
+msgstr "Desactivar la corrección de compatibilidad con Autoptimize"
+
+#: html/atlas-novus/settings-page.html.php:1629
+#: html/settings-page.html.php:1356
+msgid "Flush Geocode Cache"
+msgstr "Purgar la caché de Geocode"
+
+#: includes/class.strings.php:64
+msgid "You must check the GDPR consent box to continue"
+msgstr "Debes marcar la casilla de consentimiento de RGPD para continuar"
+
+#: includes/class.auto-loader.php:225
+msgid "The plugins autoloader failed to register one or more modules. This is usually due to missing files. Please re-install the plugin and any relevant add-ons. Technical details are as follows: "
+msgstr "El cargador automático de plugins no ha fallado al registrar uno o más módulos. Normalmente, esto es debido a que faltan archivos. Por favor, reinstala el plugin y cualquier extensión relevante. Los detalles técnicos son los siguientes: "
+
+#: includes/class.plugin.php:1072
+msgid "The plugin cannot initialise due to a fatal error. This is usually due to missing files or incompatible software. Please re-install the plugin and any relevant add-ons. We recommend that you use at least PHP 5.6. Technical details are as follows: "
+msgstr "El plugin no ha podido iniciarse debido a un error fatal. Normalmente, esto es debido a que faltan archivos o a software incompatible. Por favor, reinstala el plugin y cualquier extensión relevante. Te recomendamos que uses, al menos, PHP 5.6. Los detalles técnicos son los siguientes: "
+
+#: wpGoogleMaps.php:650
+msgid "The plugin failed to load due to a fatal error. This is usually due to missing files, or incompatible software. Please re-install the plugin. We recommend you use PHP 5.6 or above. Technical details are as follows: "
+msgstr "El plugin ha fallado al cargarse debido a un error fatal. Normalmente, esto es debido a que faltan archivos o a software incompatible. Por favor, reinstala el plugin. Te recomendamos que uses, al menos, PHP 5.6. Los detalles técnicos son los siguientes: "
+
+#: includes/class.strings.php:62
+msgid "Geocode failed due to technical reasons"
+msgstr "Geocode falló debido a motivos técnicos"
+
+#: includes/class.strings.php:59
+msgid "Please Wait..."
+msgstr "Por favor, espera…"
+
+#: includes/class.strings.php:56
+msgid "No address specified"
+msgstr "No se ha especificado ninguna dirección"
+
+#: html/atlas-novus/settings-page.html.php:1306
+#: html/gdpr-compliance-settings.html.php:19 html/settings-page.html.php:1537
+msgid "Some caching and optimization plugins will continue to serve your map page with the GDPR agreement, disregarding this cookie. In this instance, clicking \"I Agree\" will reload the page and appear to have no effect. To solve this issue, we recommend you exclude your map page from caching and optimization."
+msgstr "Algunos plugins de almacenamiento en caché y optimización continuarán sirviendo su página de mapa con el acuerdo de RGPD, haciendo caso omiso de esta cookie. En este caso, al hacer clic en \"Acepto\" se recargará la página y parecerá que no tiene ningún efecto. Para resolver este problema, te recomendamos que excluyas la página de tu mapa del almacenamiento en caché y la optimización."
+
+#: html/atlas-novus/settings-page.html.php:1301
+#: html/gdpr-compliance-settings.html.php:14 html/settings-page.html.php:1532
+msgid "Our GDPR notice will be displayed whenever the agreement cookie is not set. Agreeing to the notice will set this cookie."
+msgstr "Nuestro aviso de RGPD se mostrará siempre que no se haya establecido la cookie de aceptación. Al aceptar el aviso, se instalará esta cookie."
+
+#: includes/class.strings.php:54
+msgid "Importing, this may take a moment..."
+msgstr "Importando, puede tardar un poco..."
+
+#: includes/class.strings.php:53
+msgid "Import completed."
+msgstr "Importación completada."
+
+#: includes/class.strings.php:48
+msgid "My Location"
+msgstr "Mi ubicación"
+
+#: includes/class.strings.php:46
+msgid "Failed to create marker %d - this marker cannot be placed on the map."
+msgstr "Fallo al crear el marcador %d - este marcador no se puede colocar en el mapa."
+
+#: html/atlas-novus/settings-page.html.php:263 html/settings-page.html.php:430
+#: html/tile-server-fieldset.html.php:127
+msgid "Caltopo"
+msgstr "Caltopo"
+
+#: includes/tables/class.admin-map-datatable.php:25
+#: includes/tables/class.admin-marker-datatable.php:31
+msgid "Bulk Delete"
+msgstr "Borrar en lote"
+
+#: includes/tables/class.admin-map-datatable.php:24
+#: includes/tables/class.admin-marker-datatable.php:29
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: includes/class.strings.php:23
+msgid "Use my location"
+msgstr "Utilizar mi ubicación"
+
+#: includes/class.strings.php:45
+msgid "Failed to get address"
+msgstr "Fallo al obtener la dirección"
+
+#: html/tile-server-fieldset.html.php:121
+msgid "Klokantech 3d"
+msgstr "Klokantech 3d"
+
+#: html/atlas-novus/settings-page.html.php:233 html/settings-page.html.php:400
+#: html/tile-server-fieldset.html.php:115
+msgid "Carto Dark (Dark Matter)"
+msgstr "Carto Dark (Dark Matter)"
+
+#: html/atlas-novus/settings-page.html.php:226 html/settings-page.html.php:393
+#: html/tile-server-fieldset.html.php:108
+msgid "Carto Light (Positron)"
+msgstr "Carto Light (Positron)"
+
+#: html/atlas-novus/settings-page.html.php:220 html/settings-page.html.php:387
+#: html/tile-server-fieldset.html.php:102
+msgid "OpenPtMap"
+msgstr "OpenPtMap"
+
+#: html/atlas-novus/installer-page.html.php:308
+#: html/atlas-novus/settings-page.html.php:213 html/installer-page.html.php:206
+#: html/settings-page.html.php:380 html/tile-server-fieldset.html.php:95
+msgid "Öpnvkarte"
+msgstr "Öpnvkarte"
+
+#: html/atlas-novus/settings-page.html.php:206 html/settings-page.html.php:373
+#: html/tile-server-fieldset.html.php:88
+msgid "Thunderforest Outdoors"
+msgstr "Thunderforest Outdoors"
+
+#: html/atlas-novus/settings-page.html.php:199 html/settings-page.html.php:366
+#: html/tile-server-fieldset.html.php:81
+msgid "Thunderforest Landscape"
+msgstr "Thunderforest Landscape"
+
+#: html/atlas-novus/settings-page.html.php:192 html/settings-page.html.php:359
+#: html/tile-server-fieldset.html.php:74
+msgid "Transport Map"
+msgstr "Transport Map"
+
+#: html/atlas-novus/settings-page.html.php:185 html/settings-page.html.php:352
+#: html/tile-server-fieldset.html.php:67
+msgid "Stamen Watercolor"
+msgstr "Stamen Watercolor"
+
+#: html/atlas-novus/settings-page.html.php:178 html/settings-page.html.php:345
+#: html/tile-server-fieldset.html.php:60
+msgid "Stamen Toner"
+msgstr "Stamen Toner"
+
+#: html/atlas-novus/settings-page.html.php:171 html/settings-page.html.php:338
+#: html/tile-server-fieldset.html.php:53
+msgid "Mapnik OSM No Labels"
+msgstr "Mapnik OSM No Labels"
+
+#: html/atlas-novus/settings-page.html.php:164 html/settings-page.html.php:331
+#: html/tile-server-fieldset.html.php:46
+msgid "Mapnik OSM B&amp;W"
+msgstr "Mapnik OSM B&amp;W"
+
+#: html/atlas-novus/installer-page.html.php:301
+#: html/atlas-novus/settings-page.html.php:157 html/installer-page.html.php:199
+#: html/settings-page.html.php:324 html/tile-server-fieldset.html.php:39
+msgid "Humanitarian"
+msgstr "Humanitarian"
+
+#: html/atlas-novus/settings-page.html.php:150 html/settings-page.html.php:317
+#: html/tile-server-fieldset.html.php:32
+msgid "OpenCycleMap"
+msgstr "OpenCycleMap"
+
+#: html/atlas-novus/installer-page.html.php:294
+#: html/atlas-novus/settings-page.html.php:143 html/installer-page.html.php:192
+#: html/settings-page.html.php:310 html/tile-server-fieldset.html.php:25
+msgid "Wikimedia Maps"
+msgstr "Wikimedia Maps"
+
+#: html/atlas-novus/installer-page.html.php:285
+#: html/atlas-novus/settings-page.html.php:134 html/installer-page.html.php:183
+#: html/settings-page.html.php:301 html/tile-server-fieldset.html.php:16
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+#: html/tile-server-fieldset.html.php:7
+msgid "Tile Server URL:"
+msgstr "URL del servidor:"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2773
+#: html/map-edit-page/map-edit-page.html.php:1088
+msgid "Get the rest of these advanced features with the Pro version for only <a href=\"%s\" target=\"_BLANK\">$39.99 once off</a>. Support and updates included forever."
+msgstr "Consigue el resto de estas características avanzadas con la versión Pro por sólo <a href=\"%s\" target=\"_BLANK\">39,99$ una vez que se desactive </a>. Soporte y actualizaciones incluidas para siempre."
+
+#. translators: %s: WP Go Maps Settings Link
+#: legacy-core.php:1071 legacy-core.php:1097
+msgid "We have detected a conflict between your current theme's version and our plugin. Should you be experiencing issues with your maps displaying, please update Avada to version 3.9.4 or go to <a href='%s'>settings page</a> and check the highlighted checkbox."
+msgstr "Hemos detectado un conflicto entre la versión de tu tema actual y nuestro plugin. Si tienes problemas con la visualización de tus mapas, actualiza Avada a la versión 3.9.4 o ve a la <a href='%s'>página de ajustes</a> y marca la casilla de verificación resaltada."
+
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:153
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:164
+#: js/v8/wp-google-maps.combined.js:14805
+msgid "Your map will appear here on your websites front end"
+msgstr "Tu mapa aparecerá aquí en la portada de tus webs "
+
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:123
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:125
+#: js/v8/wp-google-maps.combined.js:14775
+msgid "View Documentation"
+msgstr "Ver documentación"
+
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:111
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:116
+#: js/v8/wp-google-maps.combined.js:14763
+msgid "Go to Map Editor"
+msgstr "Ir al editor de mapas"
+
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:142
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:150
+#: js/v8/wp-google-maps.combined.js:14794
+msgid "Google"
+msgstr "Google"
+
+#: html/atlas-novus/map-edit-page/bulk-marker-editor-dialog.html.php:25
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2846
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:138
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:142
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:143
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:148
+#: js/v8/wp-google-maps.combined.js:14790
+#: js/v8/wp-google-maps.combined.js:14794
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/class.strings.php:25
+msgid "The map cannot be initialized because the Maps API has not been loaded. Please check your settings."
+msgstr "El mapa no se puede inicializar porque no ha cargado la API de Maps. Por favor, revisa tus ajustes."
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:10
+#: html/google-maps-api-error-dialog.html.php:90
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: html/atlas-novus/google-maps-api-error-dialog.html.php:31
+#: html/google-maps-api-error-dialog.html.php:84
+msgid "This dialog is only visible to administrators"
+msgstr "Este aviso sólo es visible por los administradores"
+
+#: html/atlas-novus/google-maps-api-error-dialog.html.php:12
+#: html/google-maps-api-error-dialog.html.php:14
+msgid "One or more error(s) have occured attempting to initialize the Maps API:"
+msgstr "Han ocurrido uno o más errores al intentar iniciar la API de mapas."
+
+#: html/atlas-novus/google-maps-api-error-dialog.html.php:10
+#: html/google-maps-api-error-dialog.html.php:8
+msgid "Maps API Error"
+msgstr "Error de la API de mapas"
+
+#: includes/class.strings.php:37
+msgid "Verify Project"
+msgstr "Comprobar proyecto"
+
+#: includes/class.strings.php:36
+msgid "API Dashboard"
+msgstr "Escritorio de la API"
+
+#: html/map-edit-page/map-edit-page.html.php:2674
+msgid "Please refer to our <a href='https://www.wpgmaps.com/privacy-policy' target='_blank'>Privacy Policy</a> for information on Data Processing"
+msgstr "Consulta la información sobre procesamiento de datos en nuestra <a href='https://www.wpgmaps.com/privacy-policy' target='_blank'>Política de privacidad</a> "
+
+#: html/atlas-novus/settings-page.html.php:1312
+#: html/gdpr-compliance-settings.html.php:120 html/settings-page.html.php:1664
+msgid "For more information about WPGM and GDPR compliance, please refer to our <a href=\"https://www.wpgmaps.com/gdpr/\">GDPR information page</a> and our <a href=\"https://www.wpgmaps.com/privacy-policy/\">Privacy Policy</a>"
+msgstr "Consulta nuestra <a href=\"https://www.wpgmaps.com/gdpr/\">página de información sobre la RGPD</a> y nuestra <a href=\"https://www.wpgmaps.com/privacy-policy/\">Política de privacidad</a> para más información sobre WPGM y la conformidad con la RGPD."
+
+#: html/atlas-novus/settings-page.html.php:1413
+#: html/gdpr-compliance-settings.html.php:109 html/settings-page.html.php:1650
+msgid "Override Text"
+msgstr "Sobreescribir texto"
+
+#: html/atlas-novus/settings-page.html.php:1408
+#: html/gdpr-compliance-settings.html.php:100 html/settings-page.html.php:1642
+msgid "By checking this box, you agree to take sole responsibility for GDPR Compliance with regards to this plugin."
+msgstr "Al marcar esta casilla, aceptas la exclusiva responsabilidad de la conformidad con la RGPD en lo que se refiere a este plugin."
+
+#: html/atlas-novus/settings-page.html.php:1394
+#: html/gdpr-compliance-settings.html.php:92 html/settings-page.html.php:1633
+msgid "Override GDPR Notice"
+msgstr "Anular el aviso de la RGPD"
+
+#: html/atlas-novus/settings-page.html.php:1363
+#: html/gdpr-compliance-settings.html.php:83 html/settings-page.html.php:1622
+msgid "The GDPR regulates that you need to state why you are processing data."
+msgstr "La RGPD establece que debes manifestar por qué estás procesando los datos."
+
+#: html/gdpr-compliance-settings.html.php:47 html/settings-page.html.php:1578
+msgid "GDPR Consent Notice"
+msgstr "Aviso de consentimiento RGPD"
+
+#: html/atlas-novus/settings-page.html.php:1320
+#: html/gdpr-compliance-settings.html.php:34 html/settings-page.html.php:1554
+msgid "Require consent before loading Maps API"
+msgstr "Solicitar consentimiento antes de cargar la API de Maps"
+
+#: html/gdpr-compliance-settings.html.php:27 html/settings-page.html.php:1546
+msgid "General Complicance"
+msgstr "Conformidad general"
+
+#: html/google-maps-api-settings.html.php:58
+msgid "Prevent other plugins and theme loading API:"
+msgstr "Evitar que el tema y otros plugins carguen la API:"
+
+#: includes/class.gdpr-compliance.php:167
+msgid "I agree"
+msgstr "Acepto"
+
+#: legacy-core.php:1657
+msgid "<strong>Alternatively, please switch to the OpenLayers map engine</strong> on the maps settings page"
+msgstr "<strong>Alternativamente, cambia al motor de mapas OpenLayers</strong> en la página de ajustes de mapas"
+
+#: legacy-core.php:1646
+msgid "Create an API key now"
+msgstr "Crear ahora una clave de API"
+
+#: html/atlas-novus/settings-page.html.php:1979
+#: html/settings-page.html.php:1508
+msgid "Developer Mode"
+msgstr "Modo desarrollador"
+
+#: includes/class.strings.php:22
+msgid "Many browsers are no longer allowing geolocation from unsecured origins. You will need to secure your site with an SSL certificate (HTTPS) or this feature may not work for your visitors"
+msgstr "Muchos navegadores ya no permiten geolocalización desde orígenes inseguros. Debes asegurar tu sitio con un certificado SSL (HTTPS) para que esta característica funcione para tus visitantes"
+
+#: includes/class.maps-engine-dialog.php:164
+msgid "Select Engine"
+msgstr "Seleccionar motor"
+
+#: includes/class.maps-engine-dialog.php:146
+msgid "Use Google Maps"
+msgstr "Usar Google Maps"
+
+#: includes/class.maps-engine-dialog.php:138
+msgid "API Key required"
+msgstr "Clave de API necesaria"
+
+#: includes/class.maps-engine-dialog.php:132
+msgid "Full functionality"
+msgstr "Funcionalidad completa"
+
+#: html/atlas-novus/installer-page.html.php:124
+#: html/atlas-novus/settings-page.html.php:104 html/installer-page.html.php:132
+#: html/settings-page.html.php:56 includes/class.maps-engine-dialog.php:124
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/class.maps-engine-dialog.php:99
+msgid "Use OpenLayers"
+msgstr "Usar OpenLayers"
+
+#: html/atlas-novus/installer-page.html.php:87 html/installer-page.html.php:93
+#: includes/class.maps-engine-dialog.php:91
+msgid "No API keys required"
+msgstr "No necesita clave de API"
+
+#: html/atlas-novus/installer-page.html.php:270
+#: html/atlas-novus/settings-page.html.php:105 html/installer-page.html.php:167
+#: html/settings-page.html.php:57 includes/class.maps-engine-dialog.php:83
+msgid "OpenLayers"
+msgstr "OpenLayers"
+
+#: includes/class.maps-engine-dialog.php:68
+msgid "Choose a maps engine"
+msgstr "Elige motor de mapas"
+
+#: html/ol-feature-coming-soon.html.php:9
+msgid "<strong>Coming soon</strong> to OpenLayers. If you need to use this feature, please go to settings then select and configure Google Maps to enable it."
+msgstr "<strong>Próximamente disponible</strong> en OpenLayers. Si necesitas usar esta característica, dirígete a ajustes y selecciona y configura Google Maps para activarla."
+
+#: html/google-maps-api-settings.html.php:50
+msgid "Always exclude engine API on pages:"
+msgstr "Excluir siempre la API del motor en estas páginas:"
+
+#: html/atlas-novus/settings-page.html.php:1543
+#: html/atlas-novus/settings-page.html.php:1549
+#: html/google-maps-api-settings.html.php:45
+#: html/google-maps-api-settings.html.php:53 html/settings-page.html.php:484
+#: html/settings-page.html.php:489
+msgid "Page IDs"
+msgstr "IDs de página"
+
+#: html/google-maps-api-settings.html.php:42
+msgid "Always include engine API on pages:"
+msgstr "Incluir siempre la API del motor en estas páginas:"
+
+#: html/atlas-novus/settings-page.html.php:1491
+#: html/google-maps-api-settings.html.php:34 html/settings-page.html.php:476
+msgid "Never"
+msgstr "Nunca"
+
+#: html/atlas-novus/settings-page.html.php:1486
+#: html/google-maps-api-settings.html.php:29 html/settings-page.html.php:471
+msgid "Only Back End"
+msgstr "Sólo en el back-end"
+
+#: html/atlas-novus/settings-page.html.php:1481
+#: html/google-maps-api-settings.html.php:24 html/settings-page.html.php:466
+msgid "Only Front End"
+msgstr "Sólo en el front-end"
+
+#: html/atlas-novus/settings-page.html.php:1476
+#: html/google-maps-api-settings.html.php:19 html/settings-page.html.php:461
+msgid "Always"
+msgstr "Siempre"
+
+#: html/atlas-novus/settings-page.html.php:1471
+#: html/google-maps-api-settings.html.php:14 html/settings-page.html.php:456
+msgid "Where required"
+msgstr "Cuando haga falta"
+
+#: html/google-maps-api-settings.html.php:8
+msgid "Load Maps Engine API:"
+msgstr "Cargar la API del motor de mapas:"
+
+#: html/atlas-novus/settings-page.html.php:51
+#: html/atlas-novus/settings-page.html.php:1294
+#: html/gdpr-compliance-settings.html.php:11 html/settings-page.html.php:44
+#: html/settings-page.html.php:1529 includes/class.gdpr-compliance.php:179
+msgid "GDPR Compliance"
+msgstr "Conformidad con la RGPD"
+
+#: html/atlas-novus/settings-page.html.php:1383
+#: html/gdpr-compliance-settings.html.php:56 html/settings-page.html.php:1588
+msgid "Users will be asked to accept the notice shown here, in the form of a check box."
+msgstr "Se le pedirá a los usuarios que acepten este aviso, marcando una casilla."
+
+#: html/gdpr-compliance-settings.html.php:53 html/settings-page.html.php:1585
+msgid "GDPR Notice"
+msgstr "Aviso de RGPD"
+
+#: html/atlas-novus/settings-page.html.php:1358
+#: html/gdpr-compliance-settings.html.php:75 html/settings-page.html.php:1612
+msgid "Retention Purpose(s)"
+msgstr "Motivo(s) de retención"
+
+#: html/atlas-novus/settings-page.html.php:1349
+#: html/gdpr-compliance-settings.html.php:65 html/settings-page.html.php:1598
+msgid "Company Name"
+msgstr "Nombre de la empresa"
+
+#: includes/legacy/functions.rectangle.php:170
+msgid "Show Rectangle"
+msgstr "Mostrar rectángulo"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:759
+msgid "Show Polyline"
+msgstr "Mostrar polilíneas"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:218
+#: includes/compat/class.pro-below-8.1-compatibility.php:765
+#: includes/legacy/functions.circle.php:173
+#: includes/legacy/functions.rectangle.php:176
+msgid "Fit map bounds to shape"
+msgstr "Ajustar los límites del mapa a una forma"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:213
+msgid "Show Polygon"
+msgstr "Mostrar polígonos"
+
+#: includes/legacy/functions.rectangle.php:136
+msgid "Edit rectangle"
+msgstr "Editar rectángulo"
+
+#: includes/legacy/functions.rectangle.php:117
+msgid "Invalid rectangle ID"
+msgstr "ID de rectángulo no válido"
+
+#: includes/legacy/functions.rectangle.php:84
+#: includes/legacy/functions.rectangle.php:192
+msgid "Save rectangle"
+msgstr "Guardar rectánculo"
+
+#: includes/legacy/functions.rectangle.php:79
+#: includes/legacy/functions.rectangle.php:187
+msgid "Click or drag the rectangle to move it."
+msgstr "Arrastra o haz clic en el rectángulo para moverlo."
+
+#: includes/legacy/functions.rectangle.php:78
+msgid "Click on the map to insert a rectangle."
+msgstr "Haz clic en el mapa para insertar un rectángulo."
+
+#: includes/legacy/functions.rectangle.php:41
+msgid "Add rectangle"
+msgstr "Añadir rectángulo"
+
+#: includes/legacy/functions.circle.php:146
+msgid "Edit circle"
+msgstr "Editar círculo"
+
+#: includes/legacy/functions.circle.php:132
+msgid "Invalid circle ID"
+msgstr "ID de círculo no válido"
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:188
+#: html/map-edit-page/circle-panel.html.php:96
+#: includes/legacy/functions.circle.php:99
+#: includes/legacy/functions.circle.php:221
+msgid "Save Circle"
+msgstr "Guardar círculo"
+
+#: includes/legacy/functions.circle.php:94
+#: includes/legacy/functions.circle.php:216
+msgid "Click or drag the circle to move it."
+msgstr "Arrastra o haz clic en el círculo para moverlo."
+
+#: includes/legacy/functions.circle.php:93
+msgid "Click on the map to insert a circle."
+msgstr "Haz clic en el mapa para insertar un círculo."
+
+#: includes/legacy/functions.circle.php:84
+#: includes/legacy/functions.circle.php:207
+msgid "Please note your circle may be too small to be visible at this zoom level"
+msgstr "Ten en cuenta que tu círculo puede ser demasiado pequeño para ser visible a este nivel de zoom"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1317
+#: html/theme-panel.html.php:362 includes/legacy/functions.circle.php:58
+#: includes/legacy/functions.circle.php:181
+#: includes/legacy/functions.rectangle.php:58
+#: includes/legacy/functions.rectangle.php:154
+msgid "Color"
+msgstr "Color"
+
+#: includes/legacy/functions.circle.php:41
+msgid "Add circle"
+msgstr "Añadir círculo"
+
+#: includes/legacy/functions.rectangle.php:285
+msgid "Delete this rectangle"
+msgstr "Borrar este rectángulo"
+
+#: includes/legacy/functions.circle.php:316
+msgid "Delete this circle"
+msgstr "Borrar este círculo"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:804
+#: html/map-edit-page/map-edit-page.html.php:441
+msgid "Radius Style"
+msgstr "Estilo del radio"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:733
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:815
+#: html/map-edit-page/map-edit-page.html.php:344
+#: html/map-edit-page/map-edit-page.html.php:465
+#: html/map-edit-page/map-edit-page.html.php:1632
+msgid "Modern"
+msgstr "Moderno"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:727
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:809
+#: html/atlas-novus/settings-page.html.php:117
+#: html/map-edit-page/map-edit-page.html.php:332
+#: html/map-edit-page/map-edit-page.html.php:454 html/settings-page.html.php:68
+msgid "Legacy"
+msgstr "Legado"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:721
+#: html/map-edit-page/map-edit-page.html.php:319
+#: html/map-edit-page/map-edit-page.html.php:354
+msgid "Store Locator Style"
+msgstr "Estilo del localizador de tiendas"
+
+#: html/settings-page.html.php:1347
+msgid "Custom JS"
+msgstr "JS personalizado"
+
+#: html/atlas-novus/settings-page.html.php:75
+#: html/atlas-novus/settings-page.html.php:1764
+#: html/settings-page.html.php:1336
+msgid "Custom Scripts"
+msgstr "Scripts personalizados"
+
+#: html/atlas-novus/settings-page.html.php:1208
+#: html/settings-page.html.php:1175
+msgid "Use a comma to separate values, eg: 1, 5, 10, 50, 100"
+msgstr "Utiliza una coma para separar los valores, ej: 1, 5, 10, 50, 100"
+
+#: html/atlas-novus/settings-page.html.php:1204
+#: html/settings-page.html.php:1170
+msgid "Store Locator Radii"
+msgstr "Radios del localizador de tiendas"
+
+#: includes/class.store-locator.php:155
+#: includes/map-edit-page/class.map-edit-page.php:74
+msgid "km"
+msgstr "km"
+
+#: includes/class.store-locator.php:162
+#: includes/map-edit-page/class.map-edit-page.php:74
+msgid "mi"
+msgstr "mi"
+
+#: includes/compat/backwards_compat_v6.php:73
+#: includes/compat/backwards_compat_v6.php:75
+msgid "Add a Rectangle"
+msgstr "Añadir un rectángulo"
+
+#: includes/compat/backwards_compat_v6.php:65
+#: includes/compat/backwards_compat_v6.php:67
+msgid "Add a Circle"
+msgstr "Añadir un círculo"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:48
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3353
+#: html/map-edit-page/map-edit-page.html.php:2360
+#: includes/compat/backwards_compat_v6.php:61
+msgid "Rectangles"
+msgstr "Rectángulos"
+
+#: html/welcome.html.php:93
+msgid "Add custom shapes such as polygons, polylines, circles and squares!"
+msgstr "¡Añade formas personalizadas, como polígonos, polilíneas, círculos y cuadrados!"
+
+#: html/atlas-novus/welcome.html.php:114 html/welcome.html.php:92
+msgid "and Squares"
+msgstr "y cuadrados"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:44
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3319
+#: html/atlas-novus/welcome.html.php:114
+#: html/map-edit-page/map-edit-page.html.php:2354 html/welcome.html.php:92
+#: includes/compat/backwards_compat_v6.php:60
+msgid "Circles"
+msgstr "círculos"
+
+#: html/atlas-novus/credits.html.php:89 html/atlas-novus/credits.html.php:103
+#: html/credits.html.php:83 html/credits.html.php:95
+msgid "Support &amp; Developer"
+msgstr "Ayuda y desarrollador"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1504
+#: includes/tables/class.admin-marker-datatable.php:38
+msgid "Mark"
+msgstr "Marca"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1013
+#: html/map-edit-page/map-edit-page.html.php:737
+msgid "Not found message"
+msgstr "Mensaje no encontrado"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:778
+#: html/map-edit-page/map-edit-page.html.php:475
+msgid "Default radius"
+msgstr "Radio por defecto"
+
+#: html/atlas-novus/settings-page.html.php:658 html/settings-page.html.php:780
+msgid "Disable InfoWindows"
+msgstr "Desactivar las ventanas de información"
+
+#: includes/class.store-locator.php:102 includes/class.strings.php:60
+msgid "No results found in this location. Please try again."
+msgstr "No se han encontrado resultados en esta ubicación. Vuelve a intentarlo."
+
+#: legacy-core.php:204
+msgid "Get Pro Version"
+msgstr "Obtén la versión Pro"
+
+#: legacy-core.php:193
+msgid "Map Editor"
+msgstr "Editor de Mapas"
+
+#: legacy-core.php:1720
+msgid "We have detected that you are using %s on your website. Please <a href='%s' class='button'>clear your cache</a> to ensure that your map is updated."
+msgstr "Hemos detectado que está usando %s en tu sitio. <a href='%s' class='button'>Vacía la caché</a> para asegurarte de que el mapa se actualiza, por favor."
+
+#: legacy-core.php:1718
+msgid "One or more markers have been added or changed, please <a href='%s' class='button'>clear your cache.</a>"
+msgstr "Se han añadido o modificado uno o más marcadores, haz el favor de <a href='%s' class='button'>vaciar la caché</a>."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:971
+#: html/map-edit-page/map-edit-page.html.php:694
+msgid "Default address"
+msgstr "Dirección predeterminada"
+
+#: html/atlas-novus/settings-page.html.php:298 html/settings-page.html.php:82
+msgid "Disable Full Screen Control"
+msgstr "Desactivar el control de pantalla completa"
+
+#: html/atlas-novus/map-edit-page/bulk-marker-editor-dialog.html.php:95
+#: html/atlas-novus/map-edit-page/map-select-dialog.html.php:18
+#: includes/compat/class.pro-below-8.1-compatibility.php:141
+#: includes/compat/class.pro-below-8.1-compatibility.php:241
+#: includes/compat/class.pro-below-8.1-compatibility.php:677
+#: includes/compat/class.pro-below-8.1-compatibility.php:787
+#: includes/legacy/functions.circle.php:99
+#: includes/legacy/functions.circle.php:221
+#: includes/legacy/functions.rectangle.php:84
+#: includes/legacy/functions.rectangle.php:192
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: html/welcome.html.php:134
+msgid "Submit and create a map"
+msgstr "Enviar y crear un mapa"
+
+#: html/welcome.html.php:23
+msgid "Skip intro and create a map"
+msgstr "Saltar intro y crear un mapa"
+
+#: legacy-core.php:1650
+msgid "paste your Google Maps JavaScript API Key here"
+msgstr "Pega la clave de la API JavaScript de Google Maps aquí"
+
+#: legacy-core.php:1649
+msgid "Paste your API key here and press save:"
+msgstr "Pega tu clave API aquí y pulsa guardar:"
+
+#: legacy-core.php:1643
+msgid "Before creating a map please follow these steps:"
+msgstr "Antes de crear un mapa, sigue estos pasos:"
+
+#: legacy-core.php:1641
+msgid "*ALL* Google Maps now require an API key to function."
+msgstr "*A TODOS* Google Maps ahora requiere una clave API para funcionar."
+
+#: html/welcome.html.php:21
+msgid "Build amazing maps through a simple interface and powerful functionality along with world class support."
+msgstr "Construir mapas sorprendentes a través de una interfaz sencilla y funcionalidad de gran alcance, junto con el apoyo de clase mundial."
+
+#: html/atlas-novus/welcome.html.php:140 html/welcome.html.php:150
+msgid "Support Desk"
+msgstr "Foro de Soporte"
+
+#: html/welcome.html.php:86
+msgid "Select from various <a href='http://wpgmaps.com/map-themes/' target='_BLANK'>map themes</a>, or make your own."
+msgstr "Seleccione entre varios <a href='http://wpgmaps.com/map-themes/' target='_BLANK'>temas del mapa</a>, o hacer sus los propios."
+
+#: html/welcome.html.php:70
+msgid "Create as many markers as you like"
+msgstr "Crea tantos marcadores como quieras"
+
+#: html/atlas-novus/welcome.html.php:68 html/welcome.html.php:69
+msgid "Unlimited Markers"
+msgstr "Marcadores Ilimitados"
+
+#: html/atlas-novus/credits.html.php:240 html/credits.html.php:127
+msgid "Get involved on GitHub."
+msgstr "Participa en GitHub."
+
+#: html/atlas-novus/credits.html.php:238 html/credits.html.php:125
+msgid "Want to see your name on this page?"
+msgstr "¿Quieres ver tu nombre en esta página?"
+
+#: html/atlas-novus/credits.html.php:74 html/credits.html.php:70
+msgid "Marketing"
+msgstr "Márketing"
+
+#: html/atlas-novus/credits.html.php:54 html/credits.html.php:54
+msgid "Lead Developer &amp; Support"
+msgstr "Desarrollador jefe y soporte"
+
+#: html/atlas-novus/credits.html.php:61 html/credits.html.php:59
+msgid "Contributors"
+msgstr "Colaboradores"
+
+#: html/atlas-novus/credits.html.php:39 html/credits.html.php:42
+msgid "Founder &amp; Lead Developer"
+msgstr "Fundador &amp; Desarrollador Principal"
+
+#: html/atlas-novus/credits.html.php:25 html/credits.html.php:29
+msgid "Project Leaders"
+msgstr "Líderes del Proyecto"
+
+#: html/atlas-novus/credits.html.php:10 html/atlas-novus/welcome.html.php:13
+#: html/credits.html.php:20 html/welcome.html.php:29
+msgid "Credits"
+msgstr "Créditos"
+
+#: html/atlas-novus/credits.html.php:9
+#: html/atlas-novus/installer-page.html.php:8
+#: html/atlas-novus/welcome.html.php:12 html/credits.html.php:17
+#: html/installer-page.html.php:8 html/welcome.html.php:28
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: html/settings-page.html.php:273
+msgid "Do not load the Google Maps API (Only check this if your theme loads the Google Maps API by default)"
+msgstr "No cargues la API de Google Maps (solo marca esta opción si tu tema carga la API de Google Maps de forma predeterminada)"
+
+#: legacy-core.php:1659
+msgid "Need help? %s or %s."
+msgstr "¿Necesitas ayuda? %s o %s."
+
+#: legacy-core.php:1640
+msgid "You can read more about that here."
+msgstr "Puedes leer más al respecto aquí."
+
+#: legacy-core.php:1639
+msgid "Important Notification"
+msgstr "Notificación Importante"
+
+#: legacy-core.php:1638
+msgid "Read the documentation"
+msgstr "Lee la documentación"
+
+#: legacy-core.php:1637
+msgid "View the instruction video"
+msgstr "Mira el video de instrucciones"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:40
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3278
+#: html/map-edit-page/map-edit-page.html.php:2348
+msgid "Heatmaps"
+msgstr "Mapas de calor"
+
+#: legacy-core.php:1650
+msgid "Save"
+msgstr "Guardar"
+
+#: legacy-core.php:1621
+msgid "United States of America"
+msgstr "Estados Unidos de America"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1481
+#: includes/tables/class.admin-marker-datatable.php:64
+#: includes/tables/class.admin-marker-datatable.php:86
+msgid "Edit this marker location"
+msgstr "Editar esta ubicación del marcador"
+
+#: html/map-edit-page/map-edit-page.html.php:12
+msgid "Create your Map"
+msgstr "Crea tu mapa"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1337
+#: includes/tables/class.admin-map-datatable.php:41
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: html/map-list-page.html.php:18 legacy-core.php:1056
+msgid "Wizard"
+msgstr "Asistente"
+
+#: html/atlas-novus/settings-page.html.php:1429
+#: html/settings-page.html.php:1186
+msgid "Google Maps API Key (required)"
+msgstr "Clave de la API de Google Maps (obligatoria)"
+
+#: html/settings-page.html.php:266
+msgid "Over-ride current jQuery with version 1.11.3 (Tick this box if you are receiving jQuery related errors after updating to WordPress 4.5)"
+msgstr "Sustituir la versión actual de jQuery con la 1.11.3 (Marca esta casilla si estás recibiendo errores de jQuery después de actualizar a WordPress 4.5)"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2533
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2535
+msgid "Preview"
+msgstr "Previsualización"
+
+#: html/map-list-page.html.php:43 legacy-core.php:1036
+msgid "Close"
+msgstr "Cerrar"
+
+#: html/atlas-novus/map-list-page.html.php:39 html/map-list-page.html.php:41
+#: legacy-core.php:1036
+msgid "We will not nag you again, promise!"
+msgstr "No te volveremos a dar la lata, ¡lo prometemos!"
+
+#. Description of the plugin
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:139
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:144
+#: js/v8/wp-google-maps.combined.js:14791
+msgid "The easiest to use Google Maps plugin! Create custom Google Maps with high quality markers containing locations, descriptions, images and links. Add your customized map to your WordPress posts and/or pages quickly and easily with the supplied shortcode. No fuss."
+msgstr "¡El complemento de Google Maps más fácil de usar! Crea mapas personalizados de Google con marcadores de alta calidad que contienen ubicaciones, descripciones, imágenes y enlaces. Agregue su mapa personalizado a sus publicaciones y / o páginas de WordPress rápida y fácilmente con el código corto suministrado. Sin problemas."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpgmaps.com"
+msgstr "https://www.wpgmaps.com"
+
+#: html/atlas-novus/support.html.php:140 html/support.html.php:97
+msgid "Contact us"
+msgstr "Contáctenos"
+
+#: html/atlas-novus/support.html.php:137 html/support.html.php:94
+#: html/support.html.php:95 html/support.html.php:96
+msgid "Support forum"
+msgstr "Foro de soporte"
+
+#: html/atlas-novus/support.html.php:132 html/support.html.php:92
+msgid "Still need help? Use one of these links below."
+msgstr "¿Aún necesitas ayuda? Utilice uno de estos enlaces a continuación."
+
+#: html/atlas-novus/support.html.php:100 html/support.html.php:84
+msgid "I'm getting jQuery errors showing on my website"
+msgstr "Estoy recibiendo errores de jQuery mostrando en mi sitio web"
+
+#: html/atlas-novus/support.html.php:97 html/support.html.php:81
+msgid "My markers are not showing on my map in the front-end"
+msgstr "Mis marcadores no se muestran en mi mapa en el front-end"
+
+#: html/atlas-novus/support.html.php:94 html/support.html.php:78
+msgid "My map is not showing on my website"
+msgstr "Mi mapa no se muestra en mi sitio web"
+
+#: html/support.html.php:73
+msgid "Common issues:"
+msgstr "Problemas comunes:"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3487
+#: html/atlas-novus/support.html.php:12 html/atlas-novus/support.html.php:84
+#: html/support.html.php:63
+msgid "Troubleshooting"
+msgstr "Solución de problemas"
+
+#: html/atlas-novus/support.html.php:73 html/support.html.php:51
+msgid "View all documentation."
+msgstr "Ver toda la documentación."
+
+#: html/support.html.php:40 html/support.html.php:42
+msgid "Changing the Google Maps language"
+msgstr "Cambiar el idioma de Google Maps"
+
+#: html/atlas-novus/support.html.php:53 html/atlas-novus/support.html.php:55
+#: html/support.html.php:31 html/support.html.php:33
+msgid "Using your map as a Widget"
+msgstr "Utilizar tu mapa como Widget"
+
+#: html/atlas-novus/support.html.php:44 html/atlas-novus/support.html.php:46
+#: html/support.html.php:22 html/support.html.php:24
+msgid "Creating your first map"
+msgstr "Creando su primer mapa"
+
+#: html/support.html.php:15
+msgid "Documentation:"
+msgstr "Documentación:"
+
+#: html/atlas-novus/support.html.php:36 html/support.html.php:11
+msgid "Getting started? Read through some of these articles to help you along your way."
+msgstr "¿Empezando? Lea algunos de estos artículos para ayudarle en su camino."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3479
+#: html/atlas-novus/support.html.php:6 html/support.html.php:8
+#: includes/class.strings.php:35
+msgid "Documentation"
+msgstr "Documentación"
+
+#: legacy-core.php:1587
+msgid " to 755 or 777, or change the directory in the Maps->Settings page. (Current file permissions are "
+msgstr " a 755 o 777, o cambia el directorio en la página Mapas->Ajustes. (Los permisos actuales del archivo son"
+
+#: legacy-core.php:1305
+msgid "for help on how to do it."
+msgstr "para obtener ayuda acerca de cómo hacerlo."
+
+#: legacy-core.php:1301
+msgid "in order for this plugin to work! Please see "
+msgstr "para que este plugin funcione! Por favor ver"
+
+#: legacy-core.php:1299
+msgid "The plugin directory does not have 'write' permissions. Please enable 'write' permissions (755) for "
+msgstr "El directorio del plugins no tiene permiso de escritura («write»). ¡Por favor activa el permiso de escritura («write») (755) para "
+
+#: html/atlas-novus/map-edit-page/imageoverlay-panel.html.php:71
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1445
+#: includes/compat/class.pro-below-8.1-compatibility.php:1511
+#: includes/tables/class.admin-marker-datatable.php:45
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1485
+#: includes/tables/class.admin-marker-datatable.php:71
+#: includes/tables/class.admin-marker-datatable.php:99
+msgid "Delete this marker"
+msgstr "Eliminar este marcador"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1483
+msgid "Approve this marker"
+msgstr "Aprobar este marcador"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1480
+msgid "Edit this marker"
+msgstr "Editar este marcador"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1452
+msgid "View this link"
+msgstr "Ver este enlace"
+
+#: legacy-core.php:1219
+msgid "This is normally caused by a conflict with another plugin or a JavaScript error that is preventing our plugin's Javascript from executing. Please try disable all plugins one by one and see if this problem persists. If it persists, please contact nick@wpgmaps.com for support."
+msgstr "Esto está causado normalmente por un conflicto con otro plugin o un error de JavaScript que está impidiendo que el JavaScript de nuestro plugin se ejecute. Por favor, intenta desactivando los plugins uno por uno para ver si el problema persiste. Si persiste, por favor contacta a nick@wpgmaps.com para solicitar asistencia."
+
+#: legacy-core.php:1213
+msgid "Tip: Use your mouse to change the location of the marker. Simply click and drag it to your desired location."
+msgstr "Consejo: Usa el cursor de tu mouse para cambiar la ubicación de tu marcador. Simplemente cliquealo y arrástralo a la ubicación deseada."
+
+#: legacy-core.php:1212
+msgid "Save Marker Location"
+msgstr "Guardar la ubicación del marcador"
+
+#: legacy-core.php:1207
+msgid "Marker Longitude"
+msgstr "Longitud del marcador"
+
+#: legacy-core.php:1203
+msgid "Marker Latitude"
+msgstr "Latitud del marcador"
+
+#: legacy-core.php:1193
+msgid "Edit Marker Location"
+msgstr "Editar la ubicación del marcador"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:132
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:133
+#: html/map-edit-page/map-edit-page.html.php:2641
+msgid "Allow your visitors to get directions to your markers!"
+msgstr "¡Permite a tus visitantes obtener una ruta hacia tus marcadores!"
+
+#: html/map-edit-page/map-edit-page.html.php:2610
+msgid "Add different marker icons, or your own icons to make your map really stand out!"
+msgstr "¡Añade diferentes íconos de marcadores, o los tuyos propios para que tu mapa se destaque!"
+
+#: html/map-edit-page/map-edit-page.html.php:2588
+#: html/map-edit-page/map-edit-page.html.php:2620
+#: html/map-edit-page/map-edit-page.html.php:2651
+msgid "here"
+msgstr "aquí"
+
+#: html/atlas-novus/settings-page.html.php:558
+#: html/map-edit-page/map-edit-page.html.php:2581
+#: html/map-edit-page/map-edit-page.html.php:2614
+#: html/map-edit-page/map-edit-page.html.php:2645
+#: html/settings-page.html.php:767
+msgid "Click"
+msgstr "Clic"
+
+#: html/map-edit-page/map-edit-page.html.php:2577
+msgid "Add detailed information to your markers for only"
+msgstr "Añade información detallada a tus marcadores por tan sólo"
+
+#: html/map-edit-page/map-edit-page.html.php:2568
+#: html/map-edit-page/map-edit-page.html.php:2601
+#: html/map-edit-page/map-edit-page.html.php:2602
+#: html/map-edit-page/map-edit-page.html.php:2633
+#: html/map-edit-page/map-edit-page.html.php:2634
+msgid "Add custom markers to your map!"
+msgstr "¡Añade marcadores personalizados a tu mapa!"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:72
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:73
+#: html/map-edit-page/map-edit-page.html.php:2567
+msgid "Add detailed information to your markers!"
+msgstr "¡Añade información detallada a tus marcadores!"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:41
+msgid "Your markers"
+msgstr "Tus marcadores"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3642
+#: html/map-edit-page/map-edit-page.html.php:2536
+msgid "Remember to save your map!"
+msgstr "¡Recuerda guardar tu mapa!"
+
+#: legacy-core.php:1219
+msgid "The map could not load."
+msgstr "El mapa no pudo cargarse."
+
+#: html/map-edit-page/map-edit-page.html.php:2424
+#: html/map-edit-page/map-edit-page.html.php:2428
+msgid "Add a new Polyline"
+msgstr "Añadir una nueva polilínea"
+
+#: html/map-edit-page/map-edit-page.html.php:2403
+#: html/map-edit-page/map-edit-page.html.php:2407
+msgid "Add a new Polygon"
+msgstr "Añadir un nuevo polígono"
+
+#: html/map-edit-page/marker-panel.html.php:124
+msgid "Custom Marker"
+msgstr "Marcador Personalizado"
+
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:97
+#: html/map-edit-page/marker-panel.html.php:119
+msgid "Link URL"
+msgstr "URL del enlace"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3186
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3292
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3435
+#: html/map-edit-page/map-edit-page.html.php:2504
+msgid "with the Pro version"
+msgstr "con la versión Pro"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3185
+#: html/map-edit-page/map-edit-page.html.php:2502
+msgid "Add advanced markers"
+msgstr "Añadir marcadores avanzados"
+
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:205
+#: html/map-edit-page/marker-panel.html.php:212 includes/class.strings.php:58
+msgid "Save Marker"
+msgstr "Guardar marcador"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3164
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:204
+#: html/map-edit-page/marker-panel.html.php:211 includes/class.strings.php:57
+msgid "Add Marker"
+msgstr "Añadir marcador"
+
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:147
+#: html/map-edit-page/marker-panel.html.php:156
+msgid "InfoWindow open by default"
+msgstr "Ventana de Información abierta por defecto"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:875
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:140
+#: html/map-edit-page/map-edit-page.html.php:649
+#: html/map-edit-page/marker-panel.html.php:149
+msgid "Drop"
+msgstr "Caída"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:872
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:137
+#: html/map-edit-page/map-edit-page.html.php:644
+#: html/map-edit-page/marker-panel.html.php:144
+msgid "Bounce"
+msgstr "Rebote"
+
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:130
+#: html/map-edit-page/marker-panel.html.php:134
+msgid "Animation"
+msgstr "Animación"
+
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:54
+#: html/map-edit-page/marker-panel.html.php:65
+msgid "Address/GPS"
+msgstr "Dirección/GPS"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3198
+#: html/map-edit-page/map-edit-page.html.php:2329
+msgid "Advanced Markers"
+msgstr "Marcadores avanzados"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:28
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3159
+#: html/map-edit-page/map-edit-page.html.php:2322
+msgid "Markers"
+msgstr "Marcadores"
+
+#: html/map-edit-page/map-edit-page.html.php:2307
+msgid "Tip: Use your mouse to change the layout of your map. When you have positioned the map to your desired location, press \"Save Map\" to keep your settings."
+msgstr "Consejo: Usa el cursor de tu ratón para cambiar tu mapa. Cuando hayas posicionado tu mapa en la ubicación deseada, cliquea «Guardar mapa» para guardar tus ajustes."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:12
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3575
+#: html/map-edit-page/map-edit-page.html.php:2302
+msgid "Save Map"
+msgstr "Guardar mapa"
+
+#: html/map-edit-page/map-edit-page.html.php:1821
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: html/map-edit-page/map-edit-page.html.php:1816
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: html/map-edit-page/map-edit-page.html.php:1811
+msgid "Bottom Center"
+msgstr "Parte inferior central"
+
+#: html/map-edit-page/map-edit-page.html.php:1806
+msgid "Right Bottom"
+msgstr "A la derecha, abajo"
+
+#: html/map-edit-page/map-edit-page.html.php:1801
+msgid "Left Bottom"
+msgstr "A la izquierda, abajo"
+
+#: html/map-edit-page/map-edit-page.html.php:1796
+msgid "Right Center"
+msgstr "Centro derecho"
+
+#: html/map-edit-page/map-edit-page.html.php:1786
+msgid "Left Center"
+msgstr "Centro izquierdo"
+
+#: html/map-edit-page/map-edit-page.html.php:1791
+msgid "Right Top"
+msgstr "Justo arriba"
+
+#: html/map-edit-page/map-edit-page.html.php:1781
+msgid "Left Top"
+msgstr "Parte superior izquierda"
+
+#: html/map-edit-page/map-edit-page.html.php:1776
+msgid "Top Right"
+msgstr "Parte superior derecha"
+
+#: html/map-edit-page/map-edit-page.html.php:1766
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: html/map-edit-page/map-edit-page.html.php:1771
+msgid "Top Center"
+msgstr "Centro Superior"
+
+#: html/map-edit-page/map-edit-page.html.php:1760
+msgid "Placement: "
+msgstr "Posición:"
+
+#: html/map-edit-page/map-edit-page.html.php:1743
+msgid "Move list inside map"
+msgstr "Mover lista dentro del mapa"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1823
+#: html/map-edit-page/map-edit-page.html.php:1734
+msgid "Descending"
+msgstr "Descendente"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1820
+#: html/map-edit-page/map-edit-page.html.php:1729
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:49
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1800
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:83
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:56
+#: html/atlas-novus/map-edit-page/polyline-panel.html.php:53
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:47
+#: html/map-edit-page/map-edit-page.html.php:1701
+#: html/map-edit-page/marker-panel.html.php:97
+#: html/map-edit-page/polygon-panel.html.php:72
+#: html/map-edit-page/polyline-panel.html.php:63
+#: includes/compat/class.pro-below-8.1-compatibility.php:186
+#: includes/compat/class.pro-below-8.1-compatibility.php:1510
+#: includes/compat/class.pro-below-8.1-compatibility.php:1529
+#: includes/tables/class.admin-marker-datatable.php:44
+#: includes/tables/class.marker-datatable.php:23
+#: includes/tables/class.polygon-datatable.php:24
+msgid "Description"
+msgstr "Descripción"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1785
+#: html/map-edit-page/map-edit-page.html.php:1679
+msgid "Order markers by"
+msgstr "Ordenar marcadores por"
+
+#: html/map-edit-page/map-edit-page.html.php:1876
+msgid "Allow users to filter by category?"
+msgstr "¿Permitir que los usuarios filtren por categoría?"
+
+#: html/map-edit-page/map-edit-page.html.php:1864
+msgid "Filter by Category"
+msgstr "Filtrar por Categoría"
+
+#: html/atlas-novus/styling-page.html.php:14
+msgid "beta"
+msgstr "beta"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1724
+#: html/map-edit-page/map-edit-page.html.php:1618
+msgid "Carousel"
+msgstr "Carrusel"
+
+#: html/map-edit-page/map-edit-page.html.php:1575
+msgid "Basic table"
+msgstr "Tabla básica"
+
+#: html/map-edit-page/map-edit-page.html.php:1541
+msgid "Enable Marker Listing with the <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=marker_listing\"target=\"_BLANK\">Pro version for only $39.99 once off</a>. Support and updates included forever."
+msgstr "Activa el listado de marcadores con la <a href=\"https://www.wpgmaps.com/purchase-professional-version/?utm_source=plugin&amp;utm_medium=link&amp;utm_campaign=marker_listing\"target=\"_BLANK\">versión Pro por un solo pago de 39.99 $</a>. Soporte y actualizaciones incluidas para siempre."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2763
+#: html/map-edit-page/map-edit-page.html.php:1356
+msgid "The KML/GeoRSS layer will over-ride most of your map settings"
+msgstr "La capa KML/GeoRSS va a reemplazar la mayoría de las configuraciones de tu mapa"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2757
+#: html/map-edit-page/map-edit-page.html.php:1345
+msgid "KML/GeoRSS URL"
+msgstr "URL de KML/GeoRSS"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2395
+#: html/map-edit-page/map-edit-page.html.php:928
+msgid "Show User's Location?"
+msgstr "¿Mostrar localización del usuario?"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2641
+#: html/map-edit-page/map-edit-page.html.php:847
+msgid "Default Marker Image"
+msgstr "Imagen por defecto del marcador"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2609
+#: html/map-edit-page/map-edit-page.html.php:1070
+msgid "Maximum Zoom In Level"
+msgstr "Nivel máximo de zoom"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:932
+#: html/map-edit-page/map-edit-page.html.php:830
+msgid "Store Locator Documentation"
+msgstr "Documentación del localizador de tiendas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:928
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2534
+#: html/map-edit-page/map-edit-page.html.php:826
+msgid "View"
+msgstr "Ver"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:959
+#: html/map-edit-page/map-edit-page.html.php:674
+msgid "Query String"
+msgstr "Cadena de consulta"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:713
+#: html/map-edit-page/map-edit-page.html.php:517
+msgid "Kilometers"
+msgstr "Kilómetros"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:712
+#: html/map-edit-page/map-edit-page.html.php:516
+msgid "Miles"
+msgstr "Millas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:701
+#: html/map-edit-page/map-edit-page.html.php:506
+msgid "Show distance in"
+msgstr "Mostrar distancia en"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1038
+#: html/map-edit-page/map-edit-page.html.php:498
+msgid "Restrict to country"
+msgstr "Restringir a un país"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:688
+#: html/map-edit-page/map-edit-page.html.php:300
+msgid "Enable Store Locator"
+msgstr "Activar localizador de tiendas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1192
+#: html/map-edit-page/map-edit-page.html.php:282
+msgid "Directions Box Width"
+msgstr "Ancho de la ventana de rutas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1186
+#: html/map-edit-page/map-edit-page.html.php:276
+msgid "Yes, below"
+msgstr "Sí, abajo"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1185
+#: html/map-edit-page/map-edit-page.html.php:275
+msgid "Yes, above"
+msgstr "Sí, arriba"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1184
+#: html/map-edit-page/map-edit-page.html.php:274
+msgid "Yes, on the right"
+msgstr "Sí, a la derecha"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1183
+#: html/map-edit-page/map-edit-page.html.php:273
+msgid "Yes, on the left"
+msgstr "Sí, a la izquierda"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1179
+#: html/map-edit-page/map-edit-page.html.php:268
+msgid "Directions Box Open by Default?"
+msgstr "¿Ventana de rutas abierta por defecto?"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1167
+#: html/map-edit-page/map-edit-page.html.php:259
+msgid "Enable Directions?"
+msgstr "¿Activar rutas?"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:566
+#: html/map-edit-page/map-edit-page.html.php:862
+msgid "Map type"
+msgstr "Tipo de mapa"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:559
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:869
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:134
+#: html/atlas-novus/settings-page.html.php:1643
+#: html/map-edit-page/map-edit-page.html.php:639
+#: html/map-edit-page/map-edit-page.html.php:919
+#: html/map-edit-page/marker-panel.html.php:139 html/settings-page.html.php:285
+msgid "None"
+msgstr "Ninguno"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:556
+#: html/map-edit-page/map-edit-page.html.php:914
+msgid "Right"
+msgstr "Derecha"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:553
+#: html/map-edit-page/map-edit-page.html.php:909
+#: includes/legacy/functions.circle.php:166
+#: includes/tables/class.admin-marker-datatable.php:90
+msgid "Center"
+msgstr "Centrado"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:550
+#: html/map-edit-page/map-edit-page.html.php:904
+msgid "Left"
+msgstr "Izquierda"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:546
+#: html/map-edit-page/map-edit-page.html.php:895
+msgid "Map Alignment"
+msgstr "Alineación del mapa"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:534
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1922
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2258
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2451
+#: html/map-edit-page/map-edit-page.html.php:176
+#: html/map-edit-page/map-edit-page.html.php:1012
+#: html/map-edit-page/map-edit-page.html.php:1202
+#: html/map-edit-page/map-edit-page.html.php:1908
+msgid "Zoom Level"
+msgstr "Nivel de Zoom"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:615
+#: html/map-edit-page/map-edit-page.html.php:227
+msgid "We recommend that you leave your height in PX. Depending on your theme, using % for the height may break your map."
+msgstr "Recomendamos ingresar la altura en píxeles. Dependiendo de tu tema, usar porcentajes en la altura puede romper el diseño del mapa."
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:599
+#: html/map-edit-page/map-edit-page.html.php:203
+msgid "Set to 100% for a responsive map"
+msgstr "Ajustar al 100% para un mapa responsivo"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:507
+#: html/map-edit-page/map-edit-page.html.php:166
+msgid "Map Name"
+msgstr "Nombre del mapa"
+
+#: html/map-edit-page/map-edit-page.html.php:153
+msgid "copy this into your post or page to display the map"
+msgstr "copia ésto en tu entrada o página para mostrar el mapa"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:513
+#: html/map-edit-page/map-edit-page.html.php:143
+msgid "Short code"
+msgstr "Shortcode"
+
+#: html/map-edit-page/map-edit-page.html.php:94
+msgid "Pro Upgrade"
+msgstr "Pasar a versión Pro"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:413
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1152
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3016
+#: html/map-edit-page/map-edit-page.html.php:59
+msgid "Directions"
+msgstr "Rutas"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:417
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1204
+#: html/atlas-novus/welcome.html.php:96
+#: html/map-edit-page/map-edit-page.html.php:52 html/welcome.html.php:85
+msgid "Themes"
+msgstr "Temas"
+
+#: html/atlas-novus/settings-page.html.php:21
+#: html/atlas-novus/settings-page.html.php:738
+#: html/map-edit-page/map-edit-page.html.php:45 html/settings-page.html.php:19
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: html/map-edit-page/map-edit-page.html.php:2617
+#: html/map-edit-page/map-edit-page.html.php:2648
+msgid "Pro Edition"
+msgstr "Edición Pro"
+
+#: legacy-core.php:1147
+msgid "Pic"
+msgstr "Imagen"
+
+#: legacy-core.php:1146
+msgid "GPS"
+msgstr "GPS"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1797
+#: html/map-edit-page/map-edit-page.html.php:1696
+#: includes/compat/class.pro-below-8.1-compatibility.php:1509
+#: includes/compat/class.pro-below-8.1-compatibility.php:1528
+#: includes/tables/class.admin-marker-datatable.php:43
+#: includes/tables/class.marker-datatable.php:22 legacy-core.php:1145
+#: js/v8/3rd-party-integration/gutenberg/blocks/store-locator/block.js:53
+msgid "Address"
+msgstr "Dirección"
+
+#: legacy-core.php:1143
+msgid "Linked to"
+msgstr "Enlazado a"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1506
+#: includes/tables/class.admin-marker-datatable.php:40 legacy-core.php:1142
+msgid "Icon"
+msgstr "Icono"
+
+#: legacy-core.php:1117
+msgid "My Markers"
+msgstr "Mis marcadores"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1348
+#: includes/tables/class.admin-map-datatable.php:110
+msgid "Trash"
+msgstr "Papelera"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:579
+#: html/map-edit-page/map-edit-page.html.php:884
+#: includes/compat/class.pro-below-8.1-compatibility.php:1346
+#: includes/tables/class.admin-map-datatable.php:87
+msgid "Terrain"
+msgstr "Físico"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:576
+#: html/map-edit-page/map-edit-page.html.php:879
+#: includes/compat/class.pro-below-8.1-compatibility.php:1345
+#: includes/tables/class.admin-map-datatable.php:86
+msgid "Hybrid"
+msgstr "Híbrido"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:573
+#: html/map-edit-page/map-edit-page.html.php:874
+#: includes/compat/class.pro-below-8.1-compatibility.php:1344
+#: includes/tables/class.admin-map-datatable.php:85
+msgid "Satellite"
+msgstr "Satélite"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:570
+#: html/map-edit-page/map-edit-page.html.php:869
+#: includes/compat/class.pro-below-8.1-compatibility.php:1343
+#: includes/tables/class.admin-map-datatable.php:88
+msgid "Roadmap"
+msgstr "Mapa de carretera"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1335
+#: includes/tables/class.admin-map-datatable.php:39
+msgid "Type"
+msgstr "Tipo"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:604
+#: html/map-edit-page/map-edit-page.html.php:212
+#: includes/compat/class.pro-below-8.1-compatibility.php:1334
+#: includes/tables/class.admin-map-datatable.php:38
+msgid "Height"
+msgstr "Alto"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:588
+#: html/map-edit-page/map-edit-page.html.php:188
+#: includes/compat/class.pro-below-8.1-compatibility.php:1333
+#: includes/tables/class.admin-map-datatable.php:37
+msgid "Width"
+msgstr "Ancho"
+
+#: legacy-core.php:1108 legacy-core.php:1120
+msgid "Problems with the plugin? See the troubleshooting manual."
+msgstr "¿Problemas con el plugin? Ver el manual de solución de problemas."
+
+#: html/atlas-novus/map-list-page.html.php:56 html/map-list-page.html.php:58
+#: legacy-core.php:1082
+msgid "with the"
+msgstr "con la"
+
+#: html/atlas-novus/map-list-page.html.php:52 html/map-list-page.html.php:54
+#: legacy-core.php:1082
+msgid "Create unlimited maps"
+msgstr "Crear mapas ilimitados"
+
+#: html/map-list-page.html.php:10 legacy-core.php:1056 legacy-core.php:1117
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: html/map-list-page.html.php:26 legacy-core.php:1056 legacy-core.php:1081
+msgid "My Maps"
+msgstr "Mis mapas"
+
+#: html/atlas-novus/settings-page.html.php:2005
+#: html/settings-page.html.php:1677
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: html/settings-page.html.php:1340
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: html/atlas-novus/settings-page.html.php:1597
+#: html/settings-page.html.php:1313
+msgid "Marker data XML URL"
+msgstr "URL de XML de datos de marcadores"
+
+#: html/settings-page.html.php:1303 html/settings-page.html.php:1323
+msgid "Currently using"
+msgstr "Actualmente usando"
+
+#: html/atlas-novus/settings-page.html.php:1589
+#: html/atlas-novus/settings-page.html.php:1606
+#: html/settings-page.html.php:1297 html/settings-page.html.php:1317
+msgid "You can use the following"
+msgstr "Puede usar lo siguiente"
+
+#: html/atlas-novus/settings-page.html.php:1579
+#: html/settings-page.html.php:1293
+msgid "Marker data XML directory"
+msgstr "Directorio de XML de datos de marcadores"
+
+#: html/settings-page.html.php:1263
+msgid "We suggest that you change the two fields below ONLY if you are experiencing issues when trying to save the marker XML files."
+msgstr "Sugerimos que cambies los dos campos de abajo SOLO si tienes problemas cuando intentas guardar los archivos XML de marcadores."
+
+#: html/atlas-novus/settings-page.html.php:1554
+#: html/settings-page.html.php:1268
+msgid "Pull marker data from"
+msgstr "Obtener datos de marcadores desde"
+
+#: html/settings-page.html.php:1257
+msgid "Marker Data Location"
+msgstr "Ubicación de la data de Marcadores"
+
+#: html/atlas-novus/settings-page.html.php:57
+#: html/atlas-novus/settings-page.html.php:1424
+#: html/map-edit-page/map-edit-page.html.php:73 html/settings-page.html.php:39
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: html/settings-page.html.php:1161
+msgid "Autoplay after x milliseconds (1000 = 1 second)"
+msgstr "Reproducción automática luego de x milisegundos (1000 = 1 segundo)"
+
+#: html/settings-page.html.php:1146
+msgid "Items"
+msgstr "Items"
+
+#: html/atlas-novus/settings-page.html.php:1104
+#: html/settings-page.html.php:1089
+msgid "Enable navigation"
+msgstr "Activar la navegación"
+
+#: html/atlas-novus/settings-page.html.php:1089
+#: html/settings-page.html.php:1085
+msgid "Enable pagination"
+msgstr "Activar la paginación"
+
+#: html/atlas-novus/settings-page.html.php:1074
+#: html/settings-page.html.php:1081
+msgid "Enable autoheight"
+msgstr "Activar la altura automática"
+
+#: html/atlas-novus/settings-page.html.php:1059
+#: html/settings-page.html.php:1077
+msgid "Enable lazyload of images"
+msgstr "Activar la carga de imágenes a demanda"
+
+#: html/atlas-novus/settings-page.html.php:1044
+#: html/settings-page.html.php:1073
+msgid "Resize Images with Timthumb"
+msgstr "Redimensionar las Imágenes con Timthumb"
+
+#: html/atlas-novus/settings-page.html.php:1022
+#: html/settings-page.html.php:1058
+msgid "Hide the Directions Link"
+msgstr "Ocultar el enlace de la ruta"
+
+#: html/atlas-novus/settings-page.html.php:1007
+#: html/settings-page.html.php:1054
+msgid "Hide the Marker Link"
+msgstr "Ocultar el enlace del marcador"
+
+#: html/atlas-novus/settings-page.html.php:992 html/settings-page.html.php:1050
+msgid "Hide the Description"
+msgstr "Ocultar la descripción"
+
+#: html/atlas-novus/settings-page.html.php:978 html/settings-page.html.php:1046
+msgid "Hide the Address"
+msgstr "Ocultar la dirección"
+
+#: html/atlas-novus/settings-page.html.php:963 html/settings-page.html.php:1042
+msgid "Hide the Marker Icon"
+msgstr "Ocultar el icono de marcador"
+
+#: html/atlas-novus/settings-page.html.php:948 html/settings-page.html.php:1038
+msgid "Hide the Title"
+msgstr "Ocultar el título"
+
+#: html/atlas-novus/settings-page.html.php:933 html/settings-page.html.php:1034
+msgid "Hide the Image"
+msgstr "Ocultar la imagen"
+
+#: html/atlas-novus/settings-page.html.php:913 html/settings-page.html.php:1018
+msgid "Black"
+msgstr "Negro"
+
+#: html/atlas-novus/settings-page.html.php:910 html/settings-page.html.php:1013
+msgid "White"
+msgstr "Blanco"
+
+#: html/atlas-novus/settings-page.html.php:907 html/settings-page.html.php:1009
+msgid "PinkPurple"
+msgstr "RosaPúrpura"
+
+#: html/atlas-novus/settings-page.html.php:904 html/settings-page.html.php:1004
+msgid "Monotone"
+msgstr "Monotono"
+
+#: html/atlas-novus/settings-page.html.php:901 html/settings-page.html.php:999
+msgid "Earth"
+msgstr "Tierra"
+
+#: html/atlas-novus/settings-page.html.php:898 html/settings-page.html.php:994
+msgid "Sun"
+msgstr "Sol"
+
+#: html/atlas-novus/settings-page.html.php:895 html/settings-page.html.php:989
+msgid "Sky"
+msgstr "Cielo"
+
+#: html/atlas-novus/settings-page.html.php:891 html/settings-page.html.php:981
+msgid "Theme selection"
+msgstr "Selección de tema"
+
+#: html/settings-page.html.php:974
+msgid "Carousel Marker Listing"
+msgstr "Listado de marcadores en el carrusel"
+
+#: html/atlas-novus/settings-page.html.php:852 html/settings-page.html.php:919
+msgid "Hide the Description column"
+msgstr "Ocultar la columna «Descripción»"
+
+#: html/atlas-novus/settings-page.html.php:837 html/settings-page.html.php:905
+msgid "Hide the Category column"
+msgstr "Ocultar la columna «Categoría»"
+
+#: html/atlas-novus/settings-page.html.php:822 html/settings-page.html.php:891
+msgid "Hide the Address column"
+msgstr "Ocultar la columna «Dirección»"
+
+#: html/atlas-novus/settings-page.html.php:807 html/settings-page.html.php:877
+msgid "Hide the Title column"
+msgstr "Ocultar la columna «Título»"
+
+#: html/atlas-novus/settings-page.html.php:778 html/settings-page.html.php:850
+msgid "Hide the Icon column"
+msgstr "Ocultar la columna «Icono»"
+
+#: html/settings-page.html.php:823
+msgid "Advanced Marker Listing"
+msgstr "Listado avanzado de marcadores"
+
+#: html/settings-page.html.php:801
+msgid "Changing these settings will alter the way the marker list appears on your website."
+msgstr "Cambiar estos ajustes afectará la forma en que la lista de marcadores aparecerá en tu web."
+
+#: html/settings-page.html.php:795
+msgid "Marker Listing Settings"
+msgstr "Ajustes del listado de marcadores"
+
+#: html/settings-page.html.php:761
+msgid "Open Marker InfoWindows by"
+msgstr "Abrir ventana de información de los marcadores con"
+
+#: html/atlas-novus/settings-page.html.php:434 html/settings-page.html.php:503
+msgid "Lowest level of access to the map editor"
+msgstr "Nivel más bajo de permisos para acceder al editor de mapas"
+
+#: html/settings-page.html.php:260
+msgid "Troubleshooting Options"
+msgstr "Opciones de solución de problemas"
+
+#: html/atlas-novus/settings-page.html.php:354 html/settings-page.html.php:138
+msgid "Disable Mouse Double Click Zooming"
+msgstr "Desactivar el zoom con doble clic del ratón"
+
+#: html/atlas-novus/settings-page.html.php:347 html/settings-page.html.php:131
+msgid "Disable Mouse Dragging"
+msgstr "Desactivar el arrastre con el ratón"
+
+#: html/atlas-novus/settings-page.html.php:340 html/settings-page.html.php:124
+msgid "Disable Mouse Wheel Zoom"
+msgstr "Desactivar el zoom con la rueda del ratón"
+
+#: html/atlas-novus/settings-page.html.php:326 html/settings-page.html.php:110
+msgid "Disable Map Type Controls"
+msgstr "Desactivar los controles del tipo de mapa"
+
+#: html/atlas-novus/settings-page.html.php:319 html/settings-page.html.php:103
+msgid "Disable Pan Controls"
+msgstr "Desactivar los controles de desplazamiento"
+
+#: html/atlas-novus/settings-page.html.php:312 html/settings-page.html.php:96
+msgid "Disable Zoom Controls"
+msgstr "Desactivar los controles de zoom"
+
+#: html/atlas-novus/settings-page.html.php:305 html/settings-page.html.php:89
+msgid "Disable StreetView"
+msgstr "Desactivar StreetView"
+
+#: html/settings-page.html.php:75
+msgid "General Map Settings"
+msgstr "Ajustes generales del mapa"
+
+#: html/atlas-novus/map-edit-page/map-editor-tour.html.php:46
+#: html/atlas-novus/settings-page.html.php:291
+#: html/map-edit-page/map-edit-page.html.php:103
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:101
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:109
+#: js/v8/wp-google-maps.combined.js:14753
+msgid "Map Settings"
+msgstr "Ajustes del mapa"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:425
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1602
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2992
+#: html/atlas-novus/settings-page.html.php:33
+#: html/map-edit-page/map-edit-page.html.php:80 html/settings-page.html.php:29
+msgid "Marker Listing"
+msgstr "Listado de marcadores"
+
+#: html/settings-page.html.php:24
+msgid "InfoWindows"
+msgstr "Ventanas de información"
+
+#: legacy-core.php:1584
+msgid "This folder does not exist. Please create it."
+msgstr "Este directorio no existe. Por favor, créalo."
+
+#: legacy-core.php:947
+msgid "Are you sure you want to delete this marker:"
+msgstr "¿Estás seguro de que quieres borrar este marcador:"
+
+#: legacy-core.php:947
+msgid "Delete Marker"
+msgstr "Eliminar marcador"
+
+#: legacy-core.php:943
+msgid "There was a problem deleting the marker."
+msgstr "Ocurrió un problema al borrar este marcador."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1227
+msgid "There was a problem duplicating the map."
+msgstr "Se produjo un problema al duplicar el mapa."
+
+#: html/atlas-novus/map-edit-page/bulk-marker-editor-dialog.html.php:72
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:121
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:693
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1172
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1182
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1438
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2104
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2230
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2250
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2348
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2368
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2474
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2513
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2634
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:150
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:166
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:117
+#: html/map-edit-page/map-edit-page.html.php:262
+#: html/map-edit-page/map-edit-page.html.php:272
+#: html/map-edit-page/map-edit-page.html.php:311
+#: html/map-edit-page/map-edit-page.html.php:1038
+#: html/map-edit-page/map-edit-page.html.php:1112
+#: html/map-edit-page/map-edit-page.html.php:1131
+#: html/map-edit-page/map-edit-page.html.php:1150
+#: html/map-edit-page/map-edit-page.html.php:1169
+#: html/map-edit-page/map-edit-page.html.php:1190
+#: html/map-edit-page/map-edit-page.html.php:1896
+#: html/map-edit-page/map-edit-page.html.php:1932
+#: html/map-edit-page/marker-panel.html.php:160
+#: html/map-edit-page/marker-panel.html.php:185 includes/class.strings.php:83
+#: includes/compat/class.pro-below-8.1-compatibility.php:1208
+#: legacy-core.php:947
+msgid "No"
+msgstr "No"
+
+#: html/atlas-novus/map-edit-page/bulk-marker-editor-dialog.html.php:69
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:121
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:693
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1438
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2104
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2229
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2249
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2347
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2367
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2473
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2513
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2633
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:153
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:163
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:117
+#: html/map-edit-page/map-edit-page.html.php:310
+#: html/map-edit-page/map-edit-page.html.php:1037
+#: html/map-edit-page/map-edit-page.html.php:1111
+#: html/map-edit-page/map-edit-page.html.php:1130
+#: html/map-edit-page/map-edit-page.html.php:1149
+#: html/map-edit-page/map-edit-page.html.php:1168
+#: html/map-edit-page/map-edit-page.html.php:1189
+#: html/map-edit-page/map-edit-page.html.php:1895
+#: html/map-edit-page/map-edit-page.html.php:1931
+#: html/map-edit-page/marker-panel.html.php:165
+#: html/map-edit-page/marker-panel.html.php:180 includes/class.strings.php:82
+#: includes/compat/class.pro-below-8.1-compatibility.php:1208
+#: legacy-core.php:947
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1208
+msgid "Are you sure you want to delete the map"
+msgstr "¿Estás seguro de que quieres borrar el mapa"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1208
+msgid "Delete your map"
+msgstr "Eliminar mapa"
+
+#: html/atlas-novus/footer.html.php:25 html/footer.html.php:22
+#: includes/compat/class.pro-below-8.1-compatibility.php:1185
+msgid "Support forum."
+msgstr "Foro de soporte."
+
+#: html/footer.html.php:17
+#: includes/compat/class.pro-below-8.1-compatibility.php:1185
+msgid "Or ask a question on our "
+msgstr "O haz una pregunta en nuestro"
+
+#: html/footer.html.php:12
+#: includes/compat/class.pro-below-8.1-compatibility.php:1185
+#: legacy-core.php:934
+msgid "See the troubleshooting manual."
+msgstr "Ver el manual de solución de problemas."
+
+#: html/atlas-novus/footer.html.php:5 html/footer.html.php:4
+#: includes/compat/class.pro-below-8.1-compatibility.php:1185
+#: legacy-core.php:934
+msgid "Experiencing problems with the plugin?"
+msgstr "¿Problemas con el plugin?"
+
+#: html/atlas-novus/support.html.php:24 html/atlas-novus/support.html.php:128
+#: html/support.html.php:91 includes/class.admin-ui.php:69
+#: includes/compat/class.pro-below-8.1-compatibility.php:1161
+msgid "Support"
+msgstr "Soporte"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:24
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:400
+#: includes/class.admin-ui.php:47
+#: includes/compat/class.pro-below-8.1-compatibility.php:1160
+#: legacy-core.php:195
+msgid "Settings"
+msgstr "Ajustes"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:437
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:641
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1030
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2589
+#: html/theme-panel.html.php:405
+#: includes/compat/class.pro-below-8.1-compatibility.php:1142
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: html/atlas-novus/settings-page.html.php:45
+#: html/atlas-novus/settings-page.html.php:1217
+#: includes/compat/class.pro-below-8.1-compatibility.php:1135
+msgid "Categories"
+msgstr "Categorías"
+
+#: html/atlas-novus/map-list-page.html.php:8 includes/class.admin-ui.php:34
+#: includes/compat/class.pro-below-8.1-compatibility.php:1124
+#: includes/compat/class.pro-below-8.1-compatibility.php:1129
+#: js/v8/3rd-party-integration/gutenberg/dist/gutenberg.js:142
+#: js/v8/3rd-party-integration/gutenberg/src/gutenberg.jsx:149
+#: js/v8/wp-google-maps.combined.js:14794
+msgid "Maps"
+msgstr "Mapas"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2212
+msgid "Your polyline has been saved."
+msgstr "Tu polilínea se ha guardado."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2163
+msgid "Your polyline has been created."
+msgstr "Tu polilínea se ha creado."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2131
+#: includes/compat/class.pro-below-8.1-compatibility.php:2183
+msgid "You cannot save a blank polyline"
+msgstr "No puedes guardar una polilínea vacía"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2113
+msgid "Your polygon has been saved."
+msgstr "Tu polígono se ha guardado."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2048
+msgid "Your polygon has been created."
+msgstr "Tu polígono se ha creado"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:2001
+#: includes/compat/class.pro-below-8.1-compatibility.php:2066
+msgid "You cannot save a blank polygon"
+msgstr "No puedes guardar un polígono vacío"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1988
+msgid "Your marker location has been saved."
+msgstr "La ubicación de tu marcador se ha guardado."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1950
+msgid "Your settings have been saved."
+msgstr "Tus ajustes se han guardado."
+
+#: html/atlas-novus/store-locator.html.php:22 html/store-locator.html.php:24
+msgid "Search"
+msgstr "Buscar"
+
+#: html/atlas-novus/map-edit-page/bulk-marker-editor-dialog.html.php:36
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1803
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:124
+#: html/map-edit-page/map-edit-page.html.php:1706
+#: html/map-edit-page/marker-panel.html.php:129
+#: includes/compat/class.pro-below-8.1-compatibility.php:1508
+#: includes/compat/class.pro-below-8.1-compatibility.php:1527
+#: includes/tables/class.admin-marker-datatable.php:42
+#: includes/tables/class.marker-datatable.php:21
+msgid "Category"
+msgstr "Categoría"
+
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:78
+#: html/map-edit-page/heatmap-panel.html.php:80
+#: includes/legacy/functions.circle.php:74
+#: includes/legacy/functions.circle.php:197
+#: js/v8/3rd-party-integration/gutenberg/blocks/store-locator/block.js:63
+msgid "Radius"
+msgstr "Radio"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:960
+#: includes/class.store-locator.php:92
+msgid "ZIP / Address:"
+msgstr "ZIP / Código Postal / Dirección"
+
+#: includes/class.shortcodes.php:262 includes/class.shortcodes.php:335
+#: legacy-core.php:698
+msgid "does not exist"
+msgstr "no existe"
+
+#: includes/class.shortcodes.php:262 includes/class.shortcodes.php:335
+#: legacy-core.php:698
+msgid "Error: The map ID"
+msgstr "Error: el ID de mapa"
+
+#: includes/class.strings.php:50
+#: includes/compat/class.pro-below-8.1-compatibility.php:1697
+msgid "km away"
+msgstr "km de distancia"
+
+#: includes/class.strings.php:51
+#: includes/compat/class.pro-below-8.1-compatibility.php:1698
+msgid "miles away"
+msgstr "millas de distancia"
+
+#: legacy-core.php:1303
+msgid "this page"
+msgstr "esta página"
+
+#: legacy-core.php:228
+msgid "</em>exists. Please also ensure that you assign file permissions of 755 (or 777) to this directory."
+msgstr "</em>existe. Por favor asegúrate de que el mismo tenga asignados permisos 755 (o 777)."
+
+#: includes/class.database.php:307
+msgid "My first map"
+msgstr "Mi primer mapa"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:1035
+msgid "Delete this polyline"
+msgstr "Eliminar esta polilínea"
+
+#: html/map-edit-page/map-edit-page.html.php:2425
+#: includes/compat/class.pro-below-8.1-compatibility.php:717
+msgid "Edit Polyline"
+msgstr "Editar polilínea"
+
+#: html/atlas-novus/map-edit-page/polyline-panel.html.php:112
+#: html/map-edit-page/polyline-panel.html.php:115
+#: includes/compat/class.pro-below-8.1-compatibility.php:677
+#: includes/compat/class.pro-below-8.1-compatibility.php:787
+msgid "Save Polyline"
+msgstr "Guardar polilínea"
+
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:147
+#: html/atlas-novus/map-edit-page/polyline-panel.html.php:79
+#: html/map-edit-page/polyline-panel.html.php:95
+#: includes/compat/class.pro-below-8.1-compatibility.php:651
+#: includes/compat/class.pro-below-8.1-compatibility.php:749
+msgid "Line Thickness"
+msgstr "Grosor de línea"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3249
+#: html/atlas-novus/map-edit-page/polyline-panel.html.php:111
+#: html/map-edit-page/polyline-panel.html.php:114
+msgid "Add Polyline"
+msgstr "Añadir una polilínea"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:521
+msgid "Delete this polygon"
+msgstr "Eliminar este polígono"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2527
+#: includes/compat/class.pro-below-8.1-compatibility.php:520
+#: includes/compat/class.pro-below-8.1-compatibility.php:1034
+#: includes/compat/class.pro-below-8.1-compatibility.php:1354
+#: includes/compat/class.pro-below-8.1-compatibility.php:1358
+#: includes/legacy/functions.circle.php:310
+#: includes/legacy/functions.rectangle.php:279
+#: includes/tables/class.admin-map-datatable.php:104
+#: includes/tables/class.admin-map-datatable.php:126
+#: includes/tables/class.admin-marker-datatable.php:84
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:492
+#: includes/compat/class.pro-below-8.1-compatibility.php:1008
+#: includes/compat/class.pro-below-8.1-compatibility.php:1336
+#: includes/compat/class.pro-below-8.1-compatibility.php:1513
+#: includes/legacy/functions.circle.php:292
+#: includes/legacy/functions.rectangle.php:261
+#: includes/tables/class.admin-circle-datatable.php:22
+#: includes/tables/class.admin-heatmap-datatable.php:22
+#: includes/tables/class.admin-imageoverlay-datatable.php:20
+#: includes/tables/class.admin-map-datatable.php:40
+#: includes/tables/class.admin-marker-datatable.php:48
+#: includes/tables/class.admin-pointlabel-datatable.php:20
+#: includes/tables/class.admin-polygon-datatable.php:22
+#: includes/tables/class.admin-polyline-datatable.php:22
+#: includes/tables/class.admin-rectangle-datatable.php:22
+msgid "Action"
+msgstr "Acción"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1791
+#: html/map-edit-page/map-edit-page.html.php:1686
+#: includes/compat/class.pro-below-8.1-compatibility.php:490
+#: includes/compat/class.pro-below-8.1-compatibility.php:1006
+#: includes/compat/class.pro-below-8.1-compatibility.php:1331
+#: includes/compat/class.pro-below-8.1-compatibility.php:1505
+#: includes/legacy/functions.circle.php:290
+#: includes/legacy/functions.rectangle.php:259
+#: includes/tables/class.admin-map-datatable.php:35
+#: includes/tables/class.admin-marker-datatable.php:39
+#: includes/tables/class.circle-datatable.php:20
+#: includes/tables/class.heatmap-datatable.php:20
+#: includes/tables/class.imageoverlay-datatable.php:16
+#: includes/tables/class.pointlabel-datatable.php:16
+#: includes/tables/class.polygon-datatable.php:22
+#: includes/tables/class.polyline-datatable.php:20
+#: includes/tables/class.rectangle-datatable.php:20 legacy-core.php:1141
+#: legacy-core.php:1193
+msgid "ID"
+msgstr "ID"
+
+#: html/map-edit-page/map-edit-page.html.php:2404
+#: includes/compat/class.pro-below-8.1-compatibility.php:172
+msgid "Edit Polygon"
+msgstr "Editar polígono"
+
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:180
+#: html/map-edit-page/polygon-panel.html.php:179
+#: includes/compat/class.pro-below-8.1-compatibility.php:141
+#: includes/compat/class.pro-below-8.1-compatibility.php:241
+msgid "Save Polygon"
+msgstr "Guardar polígono"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:134
+msgid "Drag a vertex to move it."
+msgstr "Arrastrar el vértice para moverlo."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:133
+msgid "Click on a vertex to remove it."
+msgstr "Haz clic en un vértice para eliminarlo."
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:132
+msgid "Click on the map to insert a vertex."
+msgstr "Haz clic en el mapa para insertar un vértice."
+
+#: html/map-edit-page/polygon-panel.html.php:154
+#: includes/compat/class.pro-below-8.1-compatibility.php:120
+#: includes/compat/class.pro-below-8.1-compatibility.php:210
+msgid "On Hover Opacity"
+msgstr "Opacidad al pasar el cursor"
+
+#: html/map-edit-page/polygon-panel.html.php:145
+#: includes/compat/class.pro-below-8.1-compatibility.php:117
+#: includes/compat/class.pro-below-8.1-compatibility.php:207
+msgid "On Hover Fill Color"
+msgstr "Color del relleno al pasar el cursor"
+
+#: html/map-edit-page/polygon-panel.html.php:136
+#: includes/compat/class.pro-below-8.1-compatibility.php:114
+#: includes/compat/class.pro-below-8.1-compatibility.php:204
+msgid "On Hover Line Color"
+msgstr "Color de línea al pasar el cursor"
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:82
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:101
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:135
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:154
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:67
+#: html/atlas-novus/map-edit-page/imageoverlay-panel.html.php:60
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:889
+#: html/atlas-novus/map-edit-page/pointlabel-panel.html.php:58
+#: html/atlas-novus/map-edit-page/polyline-panel.html.php:68
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:76
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:97
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:131
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:150
+#: html/map-edit-page/circle-panel.html.php:80
+#: html/map-edit-page/heatmap-panel.html.php:66
+#: html/map-edit-page/polygon-panel.html.php:122
+#: html/map-edit-page/polyline-panel.html.php:81
+#: html/map-edit-page/rectangle-panel.html.php:66
+#: includes/compat/class.pro-below-8.1-compatibility.php:111
+#: includes/compat/class.pro-below-8.1-compatibility.php:201
+#: includes/compat/class.pro-below-8.1-compatibility.php:643
+#: includes/compat/class.pro-below-8.1-compatibility.php:741
+#: includes/legacy/functions.circle.php:66
+#: includes/legacy/functions.circle.php:189
+#: includes/legacy/functions.rectangle.php:66
+#: includes/legacy/functions.rectangle.php:162
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:905
+#: html/map-edit-page/map-edit-page.html.php:790
+msgid "Fill color"
+msgstr "Color de relleno"
+
+#: html/map-edit-page/map-edit-page.html.php:768
+msgid "Line opacity"
+msgstr "Opacidad de la línea"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:883
+#: html/map-edit-page/map-edit-page.html.php:756
+msgid "Line color"
+msgstr "Color de la línea"
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:61
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:62
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:53
+#: html/map-edit-page/polygon-panel.html.php:81
+#: includes/compat/class.pro-below-8.1-compatibility.php:99
+#: includes/compat/class.pro-below-8.1-compatibility.php:189
+#: includes/compat/class.pro-below-8.1-compatibility.php:1512
+#: includes/tables/class.admin-marker-datatable.php:46
+#: includes/tables/class.polygon-datatable.php:25 legacy-core.php:1148
+msgid "Link"
+msgstr "Enlace"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:96
+#: includes/compat/class.pro-below-8.1-compatibility.php:183
+#: includes/compat/class.pro-below-8.1-compatibility.php:186
+msgid "Get the Pro add-on"
+msgstr "Obtén el plugin Pro"
+
+#: html/atlas-novus/map-list-page.html.php:50
+#: html/atlas-novus/map-list-page.html.php:63 html/map-list-page.html.php:52
+#: html/map-list-page.html.php:65
+#: includes/compat/class.pro-below-8.1-compatibility.php:96
+#: includes/compat/class.pro-below-8.1-compatibility.php:183
+#: includes/compat/class.pro-below-8.1-compatibility.php:186
+#: legacy-core.php:1082
+msgid "Pro Version"
+msgstr "Versión Pro"
+
+#: includes/compat/class.pro-below-8.1-compatibility.php:96
+#: includes/compat/class.pro-below-8.1-compatibility.php:114
+#: includes/compat/class.pro-below-8.1-compatibility.php:117
+#: includes/compat/class.pro-below-8.1-compatibility.php:120
+#: includes/compat/class.pro-below-8.1-compatibility.php:183
+#: includes/compat/class.pro-below-8.1-compatibility.php:186
+#: includes/compat/class.pro-below-8.1-compatibility.php:204
+#: includes/compat/class.pro-below-8.1-compatibility.php:207
+#: includes/compat/class.pro-below-8.1-compatibility.php:210
+msgid "Pro version only"
+msgstr "Solo en la versión Pro"
+
+#: html/atlas-novus/map-edit-page/circle-panel.html.php:43
+#: html/atlas-novus/map-edit-page/heatmap-panel.html.php:41
+#: html/atlas-novus/map-edit-page/imageoverlay-panel.html.php:53
+#: html/atlas-novus/map-edit-page/pointlabel-panel.html.php:37
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:44
+#: html/atlas-novus/map-edit-page/polyline-panel.html.php:44
+#: html/atlas-novus/map-edit-page/rectangle-panel.html.php:41
+#: html/map-edit-page/circle-panel.html.php:51
+#: html/map-edit-page/heatmap-panel.html.php:34
+#: html/map-edit-page/polygon-panel.html.php:54
+#: html/map-edit-page/polyline-panel.html.php:54
+#: html/map-edit-page/rectangle-panel.html.php:47
+#: includes/compat/class.pro-below-8.1-compatibility.php:93
+#: includes/compat/class.pro-below-8.1-compatibility.php:180
+#: includes/compat/class.pro-below-8.1-compatibility.php:491
+#: includes/compat/class.pro-below-8.1-compatibility.php:627
+#: includes/compat/class.pro-below-8.1-compatibility.php:725
+#: includes/compat/class.pro-below-8.1-compatibility.php:1007
+#: includes/legacy/functions.circle.php:50
+#: includes/legacy/functions.circle.php:158
+#: includes/legacy/functions.circle.php:291
+#: includes/legacy/functions.rectangle.php:50
+#: includes/legacy/functions.rectangle.php:146
+#: includes/legacy/functions.rectangle.php:260
+#: includes/tables/class.circle-datatable.php:21
+#: includes/tables/class.heatmap-datatable.php:21
+#: includes/tables/class.imageoverlay-datatable.php:17
+#: includes/tables/class.pointlabel-datatable.php:17
+#: includes/tables/class.polygon-datatable.php:23
+#: includes/tables/class.polyline-datatable.php:21
+#: includes/tables/class.rectangle-datatable.php:21
+msgid "Name"
+msgstr "Nombre"
+
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3215
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:179
+#: html/map-edit-page/polygon-panel.html.php:178
+msgid "Add Polygon"
+msgstr "Añadir un polígono"
+
+#: base/classes/widget_module.class.php:75
+msgid "Select your map:"
+msgstr "Seleccione su mapa:"
+
+#: base/classes/widget_module.class.php:70
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:1794
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:48
+#: html/atlas-novus/map-edit-page/marker-panel.html.php:49
+#: html/atlas-novus/map-edit-page/polygon-panel.html.php:50
+#: html/map-edit-page/map-edit-page.html.php:1691
+#: html/map-edit-page/marker-panel.html.php:56
+#: html/map-edit-page/marker-panel.html.php:59
+#: html/map-edit-page/polygon-panel.html.php:63
+#: includes/compat/class.pro-below-8.1-compatibility.php:96
+#: includes/compat/class.pro-below-8.1-compatibility.php:183
+#: includes/compat/class.pro-below-8.1-compatibility.php:1332
+#: includes/compat/class.pro-below-8.1-compatibility.php:1507
+#: includes/compat/class.pro-below-8.1-compatibility.php:1526
+#: includes/tables/class.admin-map-datatable.php:36
+#: includes/tables/class.admin-marker-datatable.php:41
+#: includes/tables/class.marker-datatable.php:20 legacy-core.php:1144
+msgid "Title"
+msgstr "Título"
+
+#: base/classes/widget_module.class.php:16
+msgid "Add your map as a widget"
+msgstr "Añade tu mapa como widget"
+
+#: base/classes/WPGM_templates.php:130 html/credits.html.php:132
+#: html/welcome.html.php:161
+msgid "OK! Let's start"
+msgstr "¡OK! Comencemos"
+
+#: base/classes/WPGM_templates.php:126 html/atlas-novus/welcome.html.php:154
+#: html/welcome.html.php:156
+msgid "and we'll act on it as soon as humanly possible."
+msgstr "y vamos a ocuparnos de ello tan pronto como sea posible."
+
+#: base/classes/WPGM_templates.php:126 html/atlas-novus/welcome.html.php:153
+#: html/welcome.html.php:156
+msgid "Send us your feedback"
+msgstr "Envíanos comentarios"
+
+#: base/classes/WPGM_templates.php:126 html/atlas-novus/welcome.html.php:150
+#: html/welcome.html.php:156
+msgid "We need you to help us make this plugin better."
+msgstr "Te necesitamos para mejorar este plugin."
+
+#: base/classes/WPGM_templates.php:125 html/atlas-novus/welcome.html.php:149
+#: html/welcome.html.php:155
+msgid "Feedback"
+msgstr "Comentarios"
+
+#: base/classes/WPGM_templates.php:122 html/welcome.html.php:150
+msgid "for quick and friendly help. We'll answer your request within 24hours."
+msgstr "para obtener asistencia rápida y amigable. Responderemos tus consultas dentro de las 24 horas."
+
+#: base/classes/WPGM_templates.php:122
+msgid "Support Forum"
+msgstr "Foro de Soporte"
+
+#: base/classes/WPGM_templates.php:122 html/atlas-novus/welcome.html.php:138
+#: html/welcome.html.php:150
+msgid "Visit our"
+msgstr "Visita nuestro"
+
+#: base/classes/WPGM_templates.php:121 html/atlas-novus/welcome.html.php:136
+#: html/welcome.html.php:149
+msgid "Help me!"
+msgstr "¡Ayuda!"
+
+#: base/classes/WPGM_templates.php:118 html/welcome.html.php:144
+msgid "before you get started. If you're a tech-savvy individual, you may skip this step."
+msgstr "antes de comenzar a usar el plugin. Si eres un individuo avanzado, puedes saltarte este paso."
+
+#: base/classes/WPGM_templates.php:118 html/atlas-novus/welcome.html.php:128
+#: html/welcome.html.php:144
+msgid "review our documentation"
+msgstr "ver la documentación"
+
+#: base/classes/WPGM_templates.php:118 html/atlas-novus/welcome.html.php:126
+#: html/welcome.html.php:144
+msgid "You may want to"
+msgstr "Quizás quieras"
+
+#: base/classes/WPGM_templates.php:95 html/welcome.html.php:128
+msgid "Please explain"
+msgstr "Por favor, explícanos"
+
+#: base/classes/WPGM_templates.php:94 html/welcome.html.php:127
+msgid "Other"
+msgstr "Otro"
+
+#: base/classes/WPGM_templates.php:90 html/welcome.html.php:123
+msgid "Friend recommendation"
+msgstr "Me lo recomendó un amigo"
+
+#: base/classes/WPGM_templates.php:86 html/welcome.html.php:119
+msgid "Google or other search engine"
+msgstr "Google u otro motor de búsqueda"
+
+#: base/classes/WPGM_templates.php:82 html/welcome.html.php:115
+msgid "What search term did you use?"
+msgstr "¿Qué palabra usaste en la búsqueda?"
+
+#: base/classes/WPGM_templates.php:81 html/welcome.html.php:114
+msgid "WordPress.org plugin repository"
+msgstr "Repositorio de plugins de Wordpress.org"
+
+#: base/classes/WPGM_templates.php:74 html/welcome.html.php:107
+msgid "How did you find out about us?"
+msgstr "¿Cómo supiste de nosotros?"
+
+#: base/classes/WPGM_templates.php:59
+msgid "Create custom routes or outlines using polylines"
+msgstr "Crea rutas personalizadas o delimitaciones usando polilíneas"
+
+#: base/classes/WPGM_templates.php:58
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:36
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3244
+#: html/atlas-novus/welcome.html.php:114
+#: html/map-edit-page/map-edit-page.html.php:2342 html/welcome.html.php:92
+msgid "Polylines"
+msgstr "Polilíneas"
+
+#: base/classes/WPGM_templates.php:54
+msgid "Create service areas or coverage maps with polygons"
+msgstr "Crea áreas de servicio o mapas de cobertura con polígonos"
+
+#: base/classes/WPGM_templates.php:53
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:32
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:3210
+#: html/atlas-novus/welcome.html.php:114
+#: html/map-edit-page/map-edit-page.html.php:2336 html/welcome.html.php:92
+msgid "Polygons"
+msgstr "Polígonos"
+
+#: base/classes/WPGM_templates.php:49 html/welcome.html.php:77
+msgid "Let users search for products, branches and stores near them"
+msgstr "Permite a tus usuarios buscar productos, sucursales y negocios cerca de ellos"
+
+#: base/classes/WPGM_templates.php:48
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:409
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:624
+#: html/atlas-novus/map-edit-page/map-edit-page.html.php:2891
+#: html/atlas-novus/settings-page.html.php:39
+#: html/atlas-novus/settings-page.html.php:1200
+#: html/atlas-novus/welcome.html.php:85
+#: html/map-edit-page/map-edit-page.html.php:66 html/settings-page.html.php:34
+#: html/welcome.html.php:76
+#: js/v8/3rd-party-integration/gutenberg/blocks/store-locator/block.js:124
+msgid "Store Locator"
+msgstr "Localizador de sucursales"
+
+#: base/classes/WPGM_templates.php:44
+msgid "What's new?"
+msgstr "¿Qué hay de nuevo?"
+
+#: base/classes/WPGM_templates.php:42
+msgid "Amazing maps. Simple interface. Powerful functionality. World Class Support."
+msgstr "Mapas increíbles. Interfaz simple. Funcionalidad poderosa. Soporte de clase mundial."
+
+#: base/classes/WPGM_templates.php:40
+msgid "Welcome to"
+msgstr "Bienvenido a"

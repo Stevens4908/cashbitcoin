@@ -1,0 +1,1384 @@
+# Copyright (C) 2022 Selection Lite
+# This file is distributed under the same license as the Selection Lite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Selection Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Caster.php:163
+msgid " already uses the functionality of these plugins: "
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Caster.php:165
+msgid " You can safely deactivate these plugins."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Caster.php:181
+msgid "Selection already uses the functionality of these plugins: "
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Caster.php:187, wp-content/plugins/selection-lite/src/Merkulove/Unity/PluginHelper.php:138, wp-content/plugins/selection-lite/src/Merkulove/Unity/PluginHelper.php:138
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Caster.php:207, wp-content/plugins/selection-lite/src/Merkulove/Unity/CheckCompatibility.php:202, wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:298, wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:482
+msgid "Selection Lite"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Config.php:68
+msgid "Widgets"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Config.php:69
+msgid "The Selection widgets"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:89
+msgid "Sticky Column Effect"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:97
+msgid "Enable column sticky effect"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:108, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:184
+msgid "Enable On"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:114, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:190
+msgid "Desktop"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:115, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:191
+msgid "Tablet"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:116, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:192
+msgid "Mobile"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:128, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:247
+msgid "Offset top"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:165
+msgid "Sticky Effect"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:173
+msgid "Enable"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:215
+msgid "Scroll Offset"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:280
+msgid "Z-Index"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:297, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:223
+msgid "Background"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:322, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:953, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1067, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:688, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:802, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:891, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:498, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:604, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:645, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:746
+msgid "Box Shadow"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:344, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:242, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:546
+msgid "Border"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/StickyEffect.php:356
+msgid "Hide on scroll down"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:470
+msgid "Disable widgets that you do not plan to use to exclude their loading in the editor and on the site."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:479
+msgid "Install and activate Elementor Page Builder to start managing widgets."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:611, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:613, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:665, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:667
+msgid "Explore"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:616, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:618, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:670, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:672, wp-content/plugins/selection-lite/src/Merkulove/Unity/PluginHelper.php:137, wp-content/plugins/selection-lite/src/Merkulove/Unity/PluginHelper.php:137, wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:152
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:654
+msgid "Pro"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/TabWidgets.php:711
+msgid "In the next release"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/CheckCompatibility.php:227
+msgid "The minimum PHP version required for Selection Lite plugin is 5.6.0."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Plugin.php:249
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Plugin.php:250
+msgid "System Status"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Plugin.php:286
+msgid "Get PRO"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Plugin.php:306
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Plugin.php:307
+msgid "Uninstall Settings"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Plugin.php:314
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Plugin.php:315
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/PluginHelper.php:136, wp-content/plugins/selection-lite/src/Merkulove/Unity/PluginHelper.php:136
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterPlugins.php:89, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterPlugins.php:122
+msgid "Active Plugins"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:51
+msgid "Server Environment"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:70
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:71
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:72
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:73
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:74
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:75
+msgid "ZIP Installed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:76
+msgid "Elementor Installed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:77
+msgid "allow_url_fopen"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:78
+msgid "DOM Installed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:79
+msgid "XML Installed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:80
+msgid "BCMath Installed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:81
+msgid "mbstring Installed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:82
+msgid "Server Time Sync"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:129, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:221, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:243, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:269, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:295, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:321, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:347
+msgid "YES"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:129, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:221, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:243, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:269, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:295, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:321, wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:347
+msgid "NO"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:131
+msgid "You must enable allow_url_fopen option in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:195
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:245
+msgid "You need install and activate Elementor builder. Go to Elementor site (elementor.com) for details."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:271
+msgid " You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:297
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:323
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:349
+msgid "You must enable mbstring extension (Multibyte String) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:396
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:404
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:410
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:427
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterServer.php:422
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#. translators: %s: Codex URL
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterTheme.php:210
+msgctxt "System Info"
+msgid "If you want to modify the source code of your theme, we recommend using a <a href=\"%s\">child theme</a>."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:48
+msgid "WordPress Environment"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:63
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:64
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:65
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:66
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:67
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:68
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:69
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:70
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:71
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:72
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:73
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:141
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:185, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:241, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:253, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:430, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:445, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:613, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:681, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:242, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:306, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:368, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:429, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:441, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:232, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:257
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:185, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:242, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:254, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:431, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:446, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:614, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:682, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:243, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:307, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:369, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:430, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:442, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:233, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:258
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:249
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:359
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/ReporterWordPress.php:359
+msgid "Inactive"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:93
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:148
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:157
+msgid "Get help"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:162
+msgid "Rate this plugin"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:167
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:185
+msgid "Upgrade License"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:189
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:277, wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:297
+msgid "Selection Settings"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:278
+msgid "Selection for Lite"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:460
+msgid "Settings saved!"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:478
+msgid "SelectionLite"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:484
+msgid "Selection"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:489
+msgid "v."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/Settings.php:495
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:105
+msgid "Unlock additional functionality!"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:107, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:1068, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1529, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:1291, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1316, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:906, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:931
+msgid "Selection Lite includes only few basic widgets. Go "
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:108, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:1069, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1530, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:1292, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1317, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:907, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:932
+msgid "Selection PRO"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:109, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:1070, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1531, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:1293, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1318, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:908, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:933
+msgid " to get more awesome widgets. Buy a license and gain access to all hidden features."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:143
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:146
+msgid "Compare Selection"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:168
+msgid "FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:172
+msgid "Why should I go to Pro version?"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:175
+msgid "The Selection Pro provides "
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:176
+msgid " advanced widgets and features"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:177
+msgid "including Elementor Header and Footer, which makes the plugin compatible with most themes and plugins. "
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:183
+msgid "Can I use one license for multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:187
+msgid "According to the Envato rules, all products with a"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:188
+msgid "regular license"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:189
+msgid "can be used only for one end product except the situation when several sites are used for one project. Otherwise, a separate license is needed for each site."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:195
+msgid "Are there any restrictions in the Pro version?"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabPro.php:199
+msgid "You will have full access to the entire library of widgets and templates. The library is updated with new widgets and templates every month. In addition, you will get access to regular updates and new features."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabUninstall.php:83
+msgid "Removal settings:"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabUninstall.php:110
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/Unity/TabUninstall.php:116
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:88, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:322, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:333, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:581, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:218, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:486
+msgid "Button"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:195, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:424
+msgid "Text Color"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:213, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:477, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:761, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:812
+msgid "Text Shadow"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:252
+msgid "Border Radius"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:266, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:816, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:535, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:375, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:507
+msgid "Padding"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:330, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:334
+msgid "Button Text"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:342, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:345, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:552, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:412, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:179
+msgid "Link"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:359, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1155, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:750, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:921, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:657
+msgid "Width"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:381, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:269, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:486, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:845, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1016, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:310, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:225, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:416
+msgid "Alignment"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:385, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:323, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:346, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:390, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:657, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:696, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:273, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:490, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:849, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1020, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:314, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:229, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:420
+msgid "Left"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:389, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:350, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:277, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:494, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:853, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1024, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:318, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:233, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:424
+msgid "Center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:393, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:327, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:354, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:391, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:661, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:697, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:281, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:498, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:857, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1028, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:322, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:237, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:428
+msgid "Right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:397
+msgid "Justify"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:418
+msgid "Show Icon"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:420, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:233, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:246, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:272, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:284, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:327, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:353, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:536, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:291
+msgid "Show"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:421, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:234, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:247, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:273, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:285, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:328, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:354, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:537, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:292
+msgid "Hide"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:430, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:443
+msgid "Button icon"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:445, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:297, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:466, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:455
+msgid "Icon position"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:449, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:301, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:470, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:719, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:890, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:459
+msgid "Before"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:450, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:302, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:471, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:718, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:889, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:460
+msgid "After"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:451
+msgid "Top"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:452, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:720, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:891
+msgid "Bottom"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:462, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1206, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:994, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:528
+msgid "Icon spacing"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:491, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:498
+msgid "Button ID"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:494
+msgid ""
+"Please make sure the ID is unique \n"
+"				    and not used elsewhere on the page this \n"
+"				    form is displayed. This field allows A-z 0-9 & \n"
+"				    underscore chars without spaces."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:506
+msgid "Cursor type"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:512
+msgid "Default"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:513
+msgid "Context menu"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:514
+msgid "Help"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:515
+msgid "Pointer"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:516
+msgid "Progress"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:517
+msgid "Wait"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:518
+msgid "Cell"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:519
+msgid "Crosshair"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:520, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:464, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:320, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:391, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:248, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:259
+msgid "Text"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:521
+msgid "Vertical text"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:522
+msgid "Alias"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:523
+msgid "Copy"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:524
+msgid "Move"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:525
+msgid "No drop"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:526
+msgid "Not allowed	"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:527
+msgid "All scroll"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:528
+msgid "Col resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:529
+msgid "Row resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:530
+msgid "N resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:531
+msgid "Ne resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:532
+msgid "E resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:533
+msgid "Se resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:534
+msgid "S resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:535
+msgid "Sw resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:536
+msgid "W resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:537
+msgid "Nw resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:538
+msgid "Nesw resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:539
+msgid "Nwse resize"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:540
+msgid "Zoom in"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:541
+msgid "Zoom out"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:542
+msgid "Grab"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:543
+msgid "Grabbing"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:544
+msgid "Custom"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:553
+msgid "Cursor image"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:556
+msgid "Select an image(png) with transparent background and not more 120x120px size."
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:591, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:860, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:594, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:466, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:825, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:996, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:411, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:732, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:567
+msgid "Typography"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/buttoner.elementor.php:1060, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1521, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:1283, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1308, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:898, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:923
+msgid "Additional features"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:90, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:377
+msgid "Ticker"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:232, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:233
+msgid "General"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:239
+msgid "Show label"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:251
+msgid "Hide label on mobile"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:266, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:542, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:544
+msgid "Title"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:268, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:496
+msgid "Type label title here"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:269
+msgid "News"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:282
+msgid "Label icon"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:303, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:472, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:461
+msgid "Above left"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:304, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:473, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:462
+msgid "Above center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:305, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:474, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:463
+msgid "Above right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:306, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:475, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:464
+msgid "Under left"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:307, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:476, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:465
+msgid "Under center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:308, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:477, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:466
+msgid "Under right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:319
+msgid "Label alignment"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:342
+msgid "Label text alignment"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:373
+msgid "Ticker type"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:378, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:601
+msgid "Slider"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:386
+msgid "Ticker direction"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:402
+msgid "Ticker speed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:428
+msgid "Pause ticker on hover"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:443, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1323, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:332, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:1043
+msgid "Separator"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:458, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:316
+msgid "Separator type"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:462
+msgid "Date"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:463, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:321, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:451
+msgid "Icon"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:476, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:350
+msgid "Separator icon"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:493
+msgid "Separator text"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:521
+msgid "Content"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:530
+msgid "Content type"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:554, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:414
+msgid "https://your-link.com"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:567
+msgid "Custom items"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:572, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:493
+msgid "Title #1"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:575, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:496
+msgid "Title #2"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:611, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1245
+msgid "Arrows"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:623
+msgid "Next arrow"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:638
+msgid "Previous arrow"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:653
+msgid "Arrows alignment"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:679
+msgid "Infinite loop"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:692
+msgid "Direction"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:708
+msgid "Items to show"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:731
+msgid "Items to scroll"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:755
+msgid "Transition speed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:775
+msgid "Switching animation"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:779, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:550
+msgid "None"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:780
+msgid "Fade"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:781
+msgid "Slide"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:803, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:522, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:362, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:493
+msgid "Margin"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:869, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:603, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:420, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:740, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:575
+msgid "NORMAL"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:876, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:967, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:732, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:806, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:903, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:977, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:427, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:512, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:745, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:773
+msgid "Color"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:913, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1002, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:648, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:737, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:852, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:458, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:530, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:611, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:688
+msgid "Background type"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:932, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1046, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:667, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:781, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:870, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:477, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:583, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:621, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:722
+msgid "Border Type"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:940, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1054, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:675, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:789, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:878, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:597, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:485, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:591, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:630, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:731
+msgid "Border radius"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:961, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:696, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:506, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:768, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:652
+msgid "HOVER"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1013, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:748, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:551, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:788
+msgid "Hover transition duration"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1088
+msgid "Ticker item"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1097, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:924
+msgid "Space between items"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1143
+msgid "Label"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1178, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:961, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:1055, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:541
+msgid "Icon size"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1258
+msgid "Arrows size"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crawler.elementor.php:1281
+msgid "Space between arrows"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:88
+msgid "Breadcrumbs"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:240, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:391, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:488
+msgid "Custom breadcrumbs"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:252
+msgid "Displaying items"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:256
+msgid "Show homepage"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:257
+msgid "Show parent page"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:258
+msgid "Show child pages"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:285
+msgid "Space around"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:289
+msgid "Space between"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:304
+msgid "Show separator"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:335
+msgid "Type your inner text here"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:339
+msgid "/"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:366
+msgid "Show current page"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:402, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:404
+msgid "Name"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:427
+msgid "Is active"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:439
+msgid "Show icon"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:811
+msgid "ACTIVE"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/crumber.elementor.php:914
+msgid "Breadcrumbs items"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:85, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:170, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:171
+msgid "Heading"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:160, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:167, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:407
+msgid "Header"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:181
+msgid "https://codecanyon.net/user/merkulove"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:195
+msgid "HTML Tag"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:216, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:336
+msgid "Word break"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:218, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:338
+msgid "On"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:219, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:339
+msgid "Off"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:231, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:351
+msgid "Line"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:244
+msgid "Split header"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:256, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:259, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:260
+msgid "Split text"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:270, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:304, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:313, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:316, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:317, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:796
+msgid "Subheader"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:282, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:383, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:395, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:396, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:967
+msgid "Additional Header"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:325
+msgid "Subheader bottom"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:415
+msgid "Text style"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:440
+msgid "Stroke Color"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:451
+msgid "Stroke Size"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:516
+msgid "Box style"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:534
+msgid "Inner Background"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:551
+msgid "Double"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:552
+msgid "Dashed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:553
+msgid "Dotted"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:554
+msgid "Solid"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:555
+msgid "Groove"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:569
+msgid "Border color"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:631
+msgid "Border width"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:665
+msgid "Border padding"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:703, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:874
+msgid "Line style"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:714, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:885
+msgid "Position"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:721, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:892
+msgid "After and Before"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:764, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:935, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:634
+msgid "Height"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:778, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:949
+msgid "Spacing"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:836, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1007
+msgid "Shadow"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1045
+msgid "Transform origin"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1049
+msgid "Top Center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1050
+msgid "Top Left"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1051
+msgid "Top Right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1052
+msgid "Center Center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1053
+msgid "Center Left"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1054
+msgid "Center Right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1055
+msgid "Bottom Center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1056
+msgid "Bottom Left"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1057
+msgid "Bottom Right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1069
+msgid "Rotate"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1091
+msgid "X Offset"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/headinger.elementor.php:1113
+msgid "Y Offset"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:90
+msgid "Site logo"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:223, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:625
+msgid "Logo"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:230
+msgid "Custom logo"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:242
+msgid "Custom logo type"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:247
+msgid "Image"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:261
+msgid "Type your text logo here"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:272
+msgid "Choose Image"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:337
+msgid "Hover Animation"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:695
+msgid "Logo Image"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/logar.elementor.php:720
+msgid "Logo Text Type"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:88
+msgid "Scroll to top"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:255
+msgid "Fixed"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:267
+msgid "Fixed position"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:271
+msgid "Top left"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:272
+msgid "Top center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:273
+msgid "Top right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:274
+msgid "Left center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:275
+msgid "Right center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:276
+msgid "Bottom left"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:277
+msgid "Bottom center"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:278
+msgid "Bottom right"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:289
+msgid "Auto hide"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:304
+msgid "Auto hide after"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:321
+msgid "Start displaying button position"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:326, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:341
+msgid "Pixels"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:327, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:358
+msgid "Percentage"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:328
+msgid "Custom element"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:329
+msgid "Always show"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:374
+msgid "Element ID"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:376
+msgid "Type element id here"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:399
+msgid "Button content"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:406
+msgid "Button text"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:408
+msgid "Up"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:409
+msgid "Type button text here"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:580, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:657
+msgid "Text color"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:595, wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:672
+msgid "Icon color"
+msgstr ""
+
+#: wp-content/plugins/selection-lite/src/Merkulove/SelectionLite/Elementor/widgets/Selection/uper.elementor.php:698
+msgid "Hover transition"
+msgstr ""

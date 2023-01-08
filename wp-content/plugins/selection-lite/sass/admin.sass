@@ -1,0 +1,206 @@
+/**
+ * Selection Lite
+ * Carefully selected Elementor addons bundle, for building the most awesome websites
+ *
+ * @encoding        UTF-8
+ * @version         1.7
+ * @copyright       (C) 2018 - 2021 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         GPLv3
+ * @contributors    merkulove, vladcherviakov, phoenixmkua, podolianochka, viktorialev01
+ * @support         help@merkulov.design
+ **/
+
+$gray: rgba(10, 33, 56, 1)
+$blue: rgba(2, 116, 230, 1)
+$space: 1.25rem
+
+@import "includes/pro"
+
+.mdp-tab-name-widgets
+
+  .form-table
+
+    th,
+    td
+      padding: 0
+      margin: 0
+
+.mdp-selection-main-description
+  font-size: .85rem
+
+.mdp-selection-grid
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: space-between
+  margin-top: $space
+
+.mdp-selection-widget
+  display: flex
+  flex-direction: column
+  width: calc( 33% - 3.33rem ) // 1 margin + 2 paddings
+  border-radius: $space/2
+  margin-bottom: $space
+  padding: $space
+  border: 1px solid rgba( $blue, .12 )
+
+  &.mdp-empty
+    opacity: 0
+
+  &:hover
+    background: rgba( $blue, .12 )
+    border: 1px solid rgba( $blue, .12 )
+    transition: .8s
+
+  .mdp-selection-widget--header
+    display: flex
+    flex-direction: row
+    flex-wrap: nowrap
+    position: relative
+    width: 100%
+
+    .mdp-selection-widget--logo,
+    .mdp-selection-widget--logo img
+      width: 2rem
+      height: 2rem
+      max-width: 2rem
+      max-height: 2rem
+      margin-right: $space
+
+      a
+        display: flex
+
+    .mdp-selection-widget--title
+      display: flex
+      flex-wrap: nowrap
+      justify-content: space-between
+      width: inherit
+      align-items: center
+
+      h3,
+      h4
+        display: block
+        margin: 0
+
+    .mdp-selection-widget--switcher
+      margin-right: 0 -$space/2 0 $space/2
+
+      .mdc-switch
+        margin: 0
+
+    .mdp-selection-widget--pro-badge
+      margin-right: 0 -$space/2 0 $space/2
+      display: flex
+      flex-wrap: nowrap
+
+      a
+        text-decoration: none
+        display: flex
+        align-items: center
+        color: #3c434a
+        font-size: 11px
+        text-transform: uppercase
+        font-weight: 500
+
+      i
+        color: #f8a510
+        font-size: 18px
+        display: inline-flex
+        position: relative
+
+        &.mdc-list-item__graphic
+          margin-right: 0
+
+        &:before
+          content: ''
+          width: 24px
+          height: 24px
+          background: linear-gradient( to top, #f8a510, #FAD55E )
+          position: absolute
+          top: 0
+          left: 0
+          mix-blend-mode: lighten
+          border-radius: 8px
+
+    .mdp-selection-widget--badge
+      position: absolute
+      top: $space
+      right: $space
+      background: green
+      color: white
+      font-size: 10px
+      text-transform: uppercase
+      padding: 2px 4px
+      border-radius: $space
+      display: none // hide for a while
+
+  .mdp-selection-widget--links
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    margin-top: 1rem
+    padding-top: 1rem
+    border-top: 1px solid rgba( $blue, .12 )
+
+    p
+      padding: 0
+      margin: 0
+
+    a
+      display: flex
+      text-decoration: none
+      color: rgba( $blue, .8 )
+
+      &:hover
+        color: $blue
+
+      &:first-of-type
+        margin-right: $space/2
+
+    i.material-icons
+      font-size: 1rem
+      margin-right: $space/4
+      max-width: 1rem
+      max-height: 1rem
+      overflow: hidden
+
+  &.mdp-pro
+
+    .mdp-selection-widget--logo
+      filter: grayscale(1)
+      opacity: .7
+
+    &:hover
+      background: transparent
+
+.mdp-selection-category--title
+  text-transform: capitalize
+  border-top: 1px solid rgba( 0, 0, 0, .12 )
+  padding-top: $space
+  margin-top: $space/4
+
+  font-size: 1.1em
+
+@media screen and (max-width: 1280px)
+
+  .mdp-selection-widget
+    width: calc( 50% - 3.33rem )
+
+    &.mdp-empty
+      display: none
+
+    .mdp-selection-widget--links
+      justify-content: start
+
+@media screen and (max-width: 1024px)
+
+  .mdp-selection-widget
+    width: 100%
+
+    .mdp-selection-widget--links
+      justify-content: start
+
+@media screen and (max-width: 782px)
+
+  body:not(.mdc-disable) .wrap section.mdp-tab-content
+    width: calc( 100% - 60px )

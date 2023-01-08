@@ -1,0 +1,52 @@
+/**
+ * * Selection Lite
+ * * Carefully selected Elementor addons bundle, for building the most awesome websites
+ * *
+ * * @encoding        UTF-8
+ * * @version         1.7
+ * * @copyright       (C) 2018 - 2021 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * * @license         GPLv3
+ * * @contributors    merkulove, vladcherviakov, phoenixmkua, podolianochka, viktorialev01
+ * * @support         help@merkulov.design
+ * **/
+.mdp-logar-elementor-site-logo {
+  display: flex;
+}
+.mdp-logar-elementor-site-logo img {
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+
+.mdp-logar-elementor-caption-block figcaption {
+  margin: 0;
+}
+
+.mdp-logar-elementor-caption-figure .mdp-logar-elementor-site-logo-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.mdp-logar-elementor-caption-position-above-left .mdp-logar-elementor-site-logo-wrapper,
+.mdp-logar-elementor-caption-position-above-center .mdp-logar-elementor-site-logo-wrapper,
+.mdp-logar-elementor-caption-position-above-right .mdp-logar-elementor-site-logo-wrapper {
+  flex-direction: column-reverse;
+}
+
+.mdp-logar-elementor-caption-position-above-left .mdp-logar-elementor-caption-block,
+.mdp-logar-elementor-caption-position-under-left .mdp-logar-elementor-caption-block {
+  align-self: flex-start;
+}
+
+.mdp-logar-elementor-caption-position-above-center .mdp-logar-elementor-caption-block,
+.mdp-logar-elementor-caption-position-under-center .mdp-logar-elementor-caption-block {
+  align-self: center;
+}
+
+.mdp-logar-elementor-caption-position-above-right .mdp-logar-elementor-caption-block,
+.mdp-logar-elementor-caption-position-under-right .mdp-logar-elementor-caption-block {
+  align-self: flex-end;
+}
